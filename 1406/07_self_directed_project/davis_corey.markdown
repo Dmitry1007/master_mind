@@ -85,7 +85,8 @@ you explain it to a potential business partner, team member, or investor?]
 Last.fm would probably be a really good one, though google or facebook would probably work well too
 
 * [What Data.gov data or API will you use?]
-I don't know exactally, but I would imagine that sites like Pandora, Last.fm have to use some kind of API for their streams. Infact I think that Last.fm is an API in itself
+I think that I could use GraceNotes Rhythm API, they have a ruby web wrapper and a Javascript wrapper. Rhythm is designed specifically for the launch of new web music services like my app!
+
 
 * [Any other integrations?]
 Probably not
