@@ -50,3 +50,28 @@ Target audience would be travelers or people new to a city.
 * OAuth: Twitter authentication
 * APIs: Bike Paths, Sidewalks, Bike Stations, Bike Racks, Landmarks, Crime
 Reports, etc.
+
+
+### Concert
+
+[If this project gets selected, put **SELECTED** here]
+
+#### Pitch
+
+See where your favorite artist is playing all over the world.
+
+#### Description
+
+This app would take user input from soundcloud or something similar to map the
+artist that a user has liked based on location of where their next concert is,
+allowing for a user to see where and when they can see music is or to help plan
+a trip around a concert or many concerts.
+
+#### Target Audience
+
+People who like to go to concerts.
+
+#### Integrations
+
+* OAuth: Soundcloud
+* APIs: Soundcloud, data scrape the internet? I don't know
