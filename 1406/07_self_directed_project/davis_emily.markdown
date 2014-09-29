@@ -1,18 +1,17 @@
 ### Idea One: Best Snow. Best Go.
 
-[If this project gets selected, put **SELECTED** here]
+**SELECTED**
 
 # Pitch
-This app would gath snow fall data across all Colorado ski resorts, as well as
-determine your travel time based on current traffic flows.
+This app will aggregate snowfall and travel data.
 
 # Description
-* Users would be able to  select 'favorite' resorts, and the snowfalls for those
-resorts would display on the homepage.  
-* There would be two options: sort by snowfall or sort by travel time.
-* User's can communicate with their 'crew' via a messaging center.
-* The app would send text messages to users with a daily snow report.
-* It would also be cool to integrate a ride share message board
+When a user opens the app, it will give them either:
+- Previously selected 'favorite' resorts sorted by travel time or snowfall in
+the last seven days
+- The three nearest mountains based on current travel time and prioritized by
+snowfall in the last seven days
+- There will also be a Twitter RSVP integration
 
 Two things define a weekend warrior's life: snowfall and traffic jams.  I think
 this app would give that group a bit more power when planning their weekends.
@@ -21,9 +20,13 @@ this app would give that group a bit more power when planning their weekends.
 This app would appeal mostly to the weekend warriors of Colorado.
 
 # Integrations
-* OAuth Provider: Facebook or Twitter
-* Data.gov: Weather
-* Twilio for text notifications
+* OAuth Provider: Twitter
+* Data.gov: https://catalog.data.gov/dataset/daily-u-s-snow-monitoring
+* Twilio for text notifications?
+
+
+###############################################################################
+
 
 ### Idea Two: Yes. You have homework.
 
