@@ -4,14 +4,15 @@
 
 #### Pitch
 
-Find the best local eating, venue, bar, etc in a city based on the neighborhood.
+Find the best local eating, venue, bar, etc in a Denver based on the neighborhood.
 
 #### Description
 
-This app would pull the neighborhood maps and restaurant, parks, etc and map them;
-providing a user with an interactive map and search that would rank specific
-locations within a category. The focus would be on local businesses and building
-a community in the neighborhood you live in.
+Build your neighborhood community by knowing where to hang out with your neighbors.
+This app pulls neighborhood lines from http://data.denvergov.org/dataset/city-and-county-of-denver-statistical-neighborhoods
+and maps the best resturants, bars, parks, etc from 5280 with yelp ratings.
+Signing in with twitter also allows for tweets inviting your friends and seeing
+who is there.
 
 #### Target Audience
 
