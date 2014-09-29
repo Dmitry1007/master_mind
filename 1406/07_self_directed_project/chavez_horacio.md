@@ -1,24 +1,28 @@
-### healthiness
+### biker
 
 #### Pitch
-Enjoy having a healthy and different shopping list every day!
+Let's build a stronger bike/tech community.
 
 #### Description
+**biker**
 
-Let's face it, almost any one loves to buy groceries, and is not because you don't want to go shopping, it's
-because you don't know exactly what to buy. But what if you have someone which tells you the "healthiness"
-of every product, and even better, it also let you know how many of it you need to buy until your next
-shopping day!
+1. It lets you create and share bike routes.  
+2. You can also create races and tournaments based on those routes.
+3. You can charge/pay to participate on a race/tour.
+4. A tour can only be created after a user "creates it" and it receive certain support, which means _n_ participants and/or _n_ tweets.  
+5. You can track your performance and compare it with others.
+6. Google API is going to be integrated.
+7. You can receive notifications about the race thru SMS or email (on your choice)
+8. As a user, you can send an email with a picture of the race, and it will be in your profile.
+9. NOAA Dataset to predict the weather for your future (months in advance) race/tours.
 
 #### Target Audience
-people with tight schedule.
-desk jobs.  
-28 - 45 years old.  
+bike riders.
+Tech enthusiast.
 
 #### Integrations
+National Oceanic and Atmospheric Administration Dataset (to predict the weather in advance for any race)
 Google OAuth - almost everyone have a Gmail (https://developers.google.com/accounts/docs/OAuth2)
-Dietary Guidelines for Americans, 2010 (https://catalog.data.gov/dataset/dietary-guidelines-for-americans-2010)
-
-#### Risk
-It also need a reliable dataset of codebars to match the product, and then find their Nutritional Facts.
-At this time, I don't have a source to match the products with their Nutritional Facts, other than scrapping.
+Google Maps API
+Twilio
+Twitter
