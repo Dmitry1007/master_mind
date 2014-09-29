@@ -70,7 +70,7 @@ names...I hope.
 #### Pitch
 
 Want to know which intersections are the most dangerous for pedestrians
-bicyclists in Denver.
+bicyclists in Denver?
 
 #### Description
 
@@ -85,3 +85,29 @@ People worried about getting hit or those curious about dangerous intersections.
 
 I would use OAuth for Twitter and Amazon but not sure if there is this information
 on Data.gov or if it lives at the local level.
+
+
+## Idea: 4
+
+### TellMeWhen
+
+[If this project gets selected, put **SELECTED** here]
+
+#### Pitch
+
+Want to stay current on child safety related recalls but don't have the time?
+
+#### Description
+
+TellMeWhen will give those that sign-up a text message alert when a recall has
+been updated.
+
+#### Target Audience
+
+Parents
+
+#### Integrations
+
+OAuth: Twitter/Amazon
+Twilio: Text Notification
+Data.gov: source is in xml: http://www.cpsc.gov/cpscpub/prerel/prerelchild.xml
