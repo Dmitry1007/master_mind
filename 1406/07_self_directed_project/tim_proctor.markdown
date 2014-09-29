@@ -47,9 +47,9 @@ Baby Named can give you the name of your next child.
 
 #### Description
 
-Tell Baby Named whether you want a "trending" or "non-trending" name, and give
-your location, Baby Named will give you a boy and girl name for your location.
-Then post an image and send off your announcement to friends and family.
+Tell Baby Named whether you want a "trending" or "non-trending" name. Customers
+can post what names they plan on using, so people can compare the "trends" with
+the conversation threads.
 
 #### Target Audience
 
@@ -57,8 +57,8 @@ Parents to be.
 
 #### Integrations
 
-I would use Twitter and Amazon for the OAuth. I think there is census data on
-names...I hope.
+OAuth: Twitter and Amazon
+Data: Still working on finding through Social Security Admin. 
 
 
 ## Idea: 3
