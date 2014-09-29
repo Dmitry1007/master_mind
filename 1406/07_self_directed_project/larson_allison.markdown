@@ -22,6 +22,8 @@ their new favorite spot close by.
 
 * OAuth: Twitter authentication
 * APIs: Neighborhoods, Parks, Yelp API
+http://data.denvergov.org/dataset/city-and-county-of-denver-statistical-neighborhoods
+http://data.opencolorado.org/dataset/city-and-county-of-denver-parks
 * [Any other integrations?]
 
 
