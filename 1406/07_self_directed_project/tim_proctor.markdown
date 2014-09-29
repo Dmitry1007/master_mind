@@ -63,21 +63,25 @@ names...I hope.
 
 ## Idea: 3
 
-###
+### WatchOut!
 
 [If this project gets selected, put **SELECTED** here]
 
 #### Pitch
 
+Want to know which intersections are the most dangerous for pedestrians
+bicyclists in Denver.
 
 #### Description
 
+Get real time information about recent accidents at searched for intersections
+between drivers and pedestrians or drivers and bicyclists.
 
 #### Target Audience
 
+People worried about getting hit or those curious about dangerous intersections.
 
 #### Integrations
 
-* [What OAuth provider makes sense for this audience?]
-* [What Data.gov data or API will you use?]
-* [Any other integrations?]
+I would use OAuth for Twitter and Amazon but not sure if there is this information
+on Data.gov or if it lives at the local level.
