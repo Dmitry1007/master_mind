@@ -1,6 +1,6 @@
 ### Meet my neighbors.
 
-[If this project gets selected, put **SELECTED** here]
+**SELECTED**
 
 #### Pitch
 
