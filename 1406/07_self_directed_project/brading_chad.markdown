@@ -11,12 +11,11 @@ Plan out your daily activities on a weekly planner. Choose which of your friends
 you would like to share your schedule with, and get invited by your friends to
 see their schedules as well. Upload photos and descriptions for events you went
 to with friends so you can remember those moments. Send reminders or messages to
-friends about upcoming events to build excitement. At the end of each week
-receive a retrospective email that compares the time you spent on work/leisure
-activities to the average time spent by other people in your age
-range/demographic. It could also prompt each user to submit a personal summary
-of their week, store these entries and show the previous entry to the user at
-the end of the week.
+friends about upcoming events to build excitement. It could include local weather 
+forecasts to help users plan the day's activities. At the end of each week
+receive a retrospective email recapping your week. It could also prompt each user
+to submit a personal summary of their week, store these entries and show the 
+previous entry to the user at the end of the week.
 
 
 #### Target Audience
@@ -30,9 +29,8 @@ Facebook would make sense as an OAuth provider, as it would incorporate a daily
 planner/scheduling component into their features. Google would also make sense
 as it would expand on the capabilities of Google Calendar.
 
-It would use the American Time Use Survey from the Bureau of Labor Statistics to
-retrieve data on the average time people spend on typical daily activities.
-
+It would use data from Weather Underground to provide users with information 
+about their local weather.
 
 
 ### Deep Space Exploration
