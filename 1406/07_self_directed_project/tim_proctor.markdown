@@ -1,42 +1,35 @@
-## Idea 1:
+## Idea 5:
 
-### PAs (Public Announcements)
+### ParkIt
 
-[If this project gets selected, put **SELECTED** here]
+
 
 #### Pitch
 
-Listen to your pre-selected public announcement on any specific light rail train.
+Wouldn't be great if you could get the latest info and reviews on the best
+places to park?
 
 #### Description
 
-What if you could select the train, time, and nature of an announcement made on
-a light rail train? Choose from some stock messages like:
-- "Dan wishes Darlene a Happy 34th Birthday"
-  "Dan and Darlene wish the Broncos good-luck today"
-  "Nabisco wishes everyone a happy holidays"
-  "Dan wants to ask Darlene a very important question."
-  "Darlene wants to tell Dan how sorry she is."
+ParkIt gives subscribers info on parking lots and spaces in and around Denver.
+The best part of the site is the up-to-date comments and ratings from subscribers.
+Earn badges and points when information is "agreed" by other subscribers.
+This is the Yelp of the parking world and we all need a place to park at some
+point.
 
 #### Target Audience
 
-Anyone on the train. Must be suitable for all.
+Drivers.
 
 #### Integrations
 
-I would imagine that there are strict guidelines as to when and what content
-can be announced publicly. Trains need to be able to announce every stop, but
-there is time in between stops for maybe one to two messages. There would need
-to be some integration with RTD, and I'm not sure what that would be. Twitter
-would be a cool OAuth provider.
+data: http://data.opencolorado.org/dataset/city-and-county-of-denver-parking-facilities
+OAuth: Twitter
+Google API
 
-* [What OAuth provider makes sense for this audience?]
-* [What Data.gov data or API will you use?]
-* [Any other integrations?]
+## Idea 6:
 
-## Idea 2:
-
-### Baby Named
+### 
 
 [If this project gets selected, put **SELECTED** here]
 
@@ -58,7 +51,7 @@ Parents to be.
 #### Integrations
 
 OAuth: Twitter and Amazon
-Data: Still working on finding through Social Security Admin. 
+Data: Still working on finding through Social Security Admin.
 
 
 ## Idea: 3
