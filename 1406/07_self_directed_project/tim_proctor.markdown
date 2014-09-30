@@ -29,78 +29,25 @@ Google API
 
 ## Idea 6:
 
-### 
-
-[If this project gets selected, put **SELECTED** here]
+### CityWatch
 
 #### Pitch
 
-Whether you're interested in following the trends or purposely avoiding them,
-Baby Named can give you the name of your next child.
+When you have to go to a part of town you are unfamiliar with, wouldn't it be nice
+to get as much information about crime in that area as possible?
 
 #### Description
 
-Tell Baby Named whether you want a "trending" or "non-trending" name. Customers
-can post what names they plan on using, so people can compare the "trends" with
-the conversation threads.
+Subscribers can comment on the crime data given for a certain location and earn
+points for making comments that other subscribers agree with. It's your
+Neighborhood Watch for the 21st century.
 
 #### Target Audience
 
-Parents to be.
+Over 18.
 
 #### Integrations
 
 OAuth: Twitter and Amazon
-Data: Still working on finding through Social Security Admin.
-
-
-## Idea: 3
-
-### WatchOut!
-
-[If this project gets selected, put **SELECTED** here]
-
-#### Pitch
-
-Want to know which intersections are the most dangerous for pedestrians
-bicyclists in Denver?
-
-#### Description
-
-Get real time information about recent accidents at searched for intersections
-between drivers and pedestrians or drivers and bicyclists.
-
-#### Target Audience
-
-People worried about getting hit or those curious about dangerous intersections.
-
-#### Integrations
-
-I would use OAuth for Twitter and Amazon but not sure if there is this information
-on Data.gov or if it lives at the local level.
-
-
-## Idea: 4
-
-### TellMeWhen
-
-[If this project gets selected, put **SELECTED** here]
-
-#### Pitch
-
-Want to stay current on child safety related recalls but don't have the time?
-
-#### Description
-
-TellMeWhen will give those that sign-up a text message alert when a recall has
-been updated.
-
-#### Target Audience
-
-Parents
-
-#### Integrations
-
-OAuth: Twitter/Amazon
-Twilio: Text Notification
-Data.gov: source is in xml: http://www.cpsc.gov/cpscpub/prerel/prerelchild.xml
+Data: http://data.opencolorado.org/dataset/city-and-county-of-denver-crime
+Google API
