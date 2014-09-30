@@ -80,3 +80,35 @@ People looking for something to eat and drink after work.
 This will mainly use Yelps API but also use googlemaps to give location
 information as well.  Also it will need to integrate twitter APIs so we
 can find the locations of those food trucks as well.
+
+
+#### Idea 5
+
+#### Pitch
+Based on what trail you pick and how many miles it is/difficult it is
+we pack the necessary amount of food for you.  Too often people pack too
+much or too little when they go hiking.
+
+#### Description
+People can find a trail and using the trail.api data.  This will
+plot the trail for them and give them an idea of how long the trail is
+recommended amount of time it takes to hike and will give them a list of food
+items that we will pack for them, so they have just the right amount of food.
+People can also list if they need stuff that is gluten free, and a special
+comment box for other food allergies.  Email based portion will ask
+them if they prefer one item over another is their package of food.
+
+#### Target Audience
+Amateur or newbie hikers who are unsure of what to pack when they go on a hike.
+Also for the hardcore outdoor enthuisast that just love using our service
+since we work with the best healthy food providers.
+
+#### Integrations
+I would use facebooks API since it is the most widely used.
+
+I would use trail.api and if colorado had any open source info I would use
+them as well.  Also I would make use of weather underground or some other
+service that way when a hiker puts in the dates of his hike I can give
+him a weather forcast as well!
+
+
