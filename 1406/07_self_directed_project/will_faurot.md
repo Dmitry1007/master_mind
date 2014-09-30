@@ -1,6 +1,6 @@
 ### [Project Title]
 
-Open State Colorado (subject to change)
+Open State Colorado (subject to change) **SELECTED**
 
 #### Pitch
 
