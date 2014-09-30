@@ -1,5 +1,7 @@
 ### Time Tracker
 
+SELECTED
+
 #### Pitch
 
 Daily scheduling app that lets you share your schedule with your
@@ -11,11 +13,11 @@ Plan out your daily activities on a weekly planner. Choose which of your friends
 you would like to share your schedule with, and get invited by your friends to
 see their schedules as well. Upload photos and descriptions for events you went
 to with friends so you can remember those moments. Send reminders or messages to
-friends about upcoming events to build excitement. It could include local weather 
-forecasts to help users plan the day's activities. At the end of each week
-receive a retrospective email recapping your week. It could also prompt each user
-to submit a personal summary of their week, store these entries and show the 
-previous entry to the user at the end of the week.
+friends about upcoming events to build excitement. Use local weather forecasts to
+help you make your schedule. At the end of each week receive a retrospective 
+email recapping your week. It could also prompt each user to submit a personal 
+summary of their week, store these entries and show the previous entry to the 
+user at the end of the week.
 
 
 #### Target Audience
