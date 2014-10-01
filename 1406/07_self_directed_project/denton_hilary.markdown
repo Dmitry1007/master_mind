@@ -1,5 +1,4 @@
-# One
-### [The Stimulating Stroll]
+# The Stimulating Stroll
 
 **SELECTED**
 
