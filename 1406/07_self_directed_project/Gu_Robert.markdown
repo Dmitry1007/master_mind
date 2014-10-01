@@ -1,19 +1,35 @@
-#### Idea 1
-#### Pitch
+****SELECTED****
+Umbrella
+
 A simple application that sends you a SMS notice that lets you know
 what type of clothes you might need to wear for the day.
 #### Description
 Based on the weather forcast for the rest of the day, this app will
 simply let you know if you need a jacket or umbrella for the day ahead!
-No need to check the weather anymore.
+No need to check the weather anymore.  People visiting the site can
+enter in a range for tempatures for needing a light jacket/sweater, or a
+heavier coat.  Also they can specify at which percnetage change of 
+percipation they get sent a text for rain.
+.
 #### Target Audience
-For those that don't keep a jacket and raincoat on them very often.
+For those that don't keep a jacket and raincoat on them very often or are too
+lazy to check the weather.
 #### Integrations
 
 Facebook is used widely across a lot of people so might be most useful.
+It can also use remember the milk, since this is an app used as a task
+management tool, remembering to bring your jacket or raincoat seems like
+a task that people that use this tool want to automate.
 
-I would use weather undergroud or weather base as the API to help decide to 
+I would use weather undergroud as the API to help decide to 
 use this app or not.
+
+Also I think using rember the milk API could be useful if people don't want
+to recieve texts daily, but have it create remind using RTM instead of getting
+daily texts.
+
+
+
 
 #### Idea 2
 #### Pitch
