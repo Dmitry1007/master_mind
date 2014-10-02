@@ -134,13 +134,18 @@ submissions:
   Zachary Routhier & Chase van Hekken: https://github.com/zRouth/Event_Reporter
     repository:
     evaluation:
-      notes: ""
-      Functional Expectations: 0
-      REPL Interface: 0
-      Test-Driven Development: 0
-      Breaking Logic into Components: 0
-      Fundamental Ruby & Style: 0
-      Enumerable & Collections: 0
+      notes: "All base expectations plus 'find -- and' for two attributes.
+              REPL is functional and easy to use.
+              Good use of tests for most classes; missing reliable testing for find (and some for CLI).
+              Most of program well separated into components.
+              Shows strong effort toward organization and refactoring for clarity.
+              Saw appropriate use of each, map, select, sort!"
+      Functional Expectations: 3.5
+      REPL Interface: 3
+      Test-Driven Development: 3
+      Breaking Logic into Components: 3
+      Fundamental Ruby & Style: 3
+      Enumerable & Collections: 3
     peer_evaluation: 
       notes: ""
       Functional Expectations: 0
