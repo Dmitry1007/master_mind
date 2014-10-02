@@ -99,15 +99,16 @@ submissions:
       Breaking Logic into Components: 0
       Fundamental Ruby & Style: 0
       Enumerable & Collections: 0
-    peer_evaluation:
-      notes: ""
-      Functional Expectations: 0
-      REPL Interface: 0
-      Test-Driven Development: 0
-      Breaking Logic into Components: 0
-      Fundamental Ruby & Style: 0
-      Enumerable & Collections: 0
-  Kate Lane & David Bayendor: https://github.com/bayendor/eventreporter.git
+    peer_evaluation: 
+      notes: "Had four extensions, testing was great, used Rake and integration tests, process class could have
+      been seperated better"
+      Functional Expectations: 4
+      REPL Interface: 3
+      Test-Driven Development: 4
+      Breaking Logic into Components: 3.5
+      Fundamental Ruby & Style: 3.5
+      Enumerable & Collections: 3.5
+  Kate Lane & David Bayendor:
     repository:
     evaluation:
       notes: ""
@@ -135,7 +136,7 @@ submissions:
       Breaking Logic into Components: 0
       Fundamental Ruby & Style: 0
       Enumerable & Collections: 0
-    peer_evaluation:
+    peer_evaluation: 
       notes: ""
       Functional Expectations: 0
       REPL Interface: 0
