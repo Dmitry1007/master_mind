@@ -108,16 +108,21 @@ submissions:
       Breaking Logic into Components: 3.5
       Fundamental Ruby & Style: 3.5
       Enumerable & Collections: 3.5
-  Kate Lane & David Bayendor:
+ Kate Lane & David Bayendor: https://github.com/bayendor/eventreporter.git
     repository:
     evaluation:
-      notes: ""
-      Functional Expectations: 0
-      REPL Interface: 0
-      Test-Driven Development: 0
-      Breaking Logic into Components: 0
-      Fundamental Ruby & Style: 0
-      Enumerable & Collections: 0
+      notes: "All base functionality working except for save.
+              REPL was pleasant to use. Included courtesy responses to indicate num of records and empty results.
+              Test coverage sufficient for smaller pieces of app; would like to see CLI test with StringIO.
+              Entry, message printer, repository, file handler all effectively broken into components. CLI has a little too much logic mashed together in one class.
+              Aside from CLI, methods and classes were concise.
+              Saw collect, sort!, find_all, and each (used appropriately) for enumerables."
+      Functional Expectations: 1.5
+      REPL Interface: 3.5
+      Test-Driven Development: 3
+      Breaking Logic into Components: 2.5
+      Fundamental Ruby & Style: 3
+      Enumerable & Collections: 3
     peer_evaluation:
       notes: ""
       Functional Expectations: 0
