@@ -1,3 +1,4 @@
+---
 submissions:
   Travis Yoder & Kalah Cheek:
     repository: https://github.com/trayo/event_reporter.git
@@ -18,7 +19,7 @@ submissions:
       Fundamental Ruby & Style: 0
       Enumerable & Collections: 0
   Gregory Narajka & Herbert Joseph:
-    repository:https://github.com/gregnar/event_reporter
+    repository: https://github.com/gregnar/event_reporter
     evaluation:
       notes: ""
       Functional Expectations: 2.5
@@ -72,7 +73,7 @@ submissions:
       Fundamental Ruby & Style: 0
       Enumerable & Collections: 0
   Konr Josef Larson & Victoria Harrod:
-    repository:https://github.com/larsonkonr/Event-Reporter.git
+    repository: https://github.com/larsonkonr/Event-Reporter.git
     evaluation:
       notes: ""
       Functional Expectations: 0
@@ -99,7 +100,7 @@ submissions:
       Breaking Logic into Components: 0
       Fundamental Ruby & Style: 0
       Enumerable & Collections: 0
-    peer_evaluation: 
+    peer_evaluation:
       notes: "Had four extensions, testing was great, used Rake and integration tests, process class could have
       been seperated better"
       Functional Expectations: 4
@@ -108,15 +109,16 @@ submissions:
       Breaking Logic into Components: 3.5
       Fundamental Ruby & Style: 3.5
       Enumerable & Collections: 3.5
- Kate Lane & David Bayendor: https://github.com/bayendor/eventreporter.git
-    repository:
+  Kate Lane & David Bayendor:
+    repository: https://github.com/bayendor/eventreporter.git
     evaluation:
-      notes: "All base functionality working except for save.
-              REPL was pleasant to use. Included courtesy responses to indicate num of records and empty results.
-              Test coverage sufficient for smaller pieces of app; would like to see CLI test with StringIO.
-              Entry, message printer, repository, file handler all effectively broken into components. CLI has a little too much logic mashed together in one class.
-              Aside from CLI, methods and classes were concise.
-              Saw collect, sort!, find_all, and each (used appropriately) for enumerables."
+      notes: |
+        All base functionality working except for save.
+        REPL was pleasant to use. Included courtesy responses to indicate num of records and empty results.
+        Test coverage sufficient for smaller pieces of app; would like to see CLI test with StringIO.
+        Entry, message printer, repository, file handler all effectively broken into components. CLI has a little too much logic mashed together in one class.
+        Aside from CLI, methods and classes were concise.
+        Saw collect, sort!, find_all, and each (used appropriately) for enumerables.
       Functional Expectations: 1.5
       REPL Interface: 3.5
       Test-Driven Development: 3
@@ -131,22 +133,23 @@ submissions:
       Breaking Logic into Components: 0
       Fundamental Ruby & Style: 0
       Enumerable & Collections: 0
-  Zachary Routhier & Chase van Hekken: https://github.com/zRouth/Event_Reporter
-    repository:
+  Zachary Routhier & Chase van Hekken:
+    repository: https://github.com/zRouth/Event_Reporter
     evaluation:
-      notes: "All base expectations plus 'find -- and' for two attributes.
-              REPL is functional and easy to use.
-              Good use of tests for most classes; missing reliable testing for find (and some for CLI).
-              Most of program well separated into components.
-              Shows strong effort toward organization and refactoring for clarity.
-              Saw appropriate use of each, map, select, sort!"
+      notes: |
+        All base expectations plus 'find -- and' for two attributes.
+        REPL is functional and easy to use.
+        Good use of tests for most classes; missing reliable testing for find (and some for CLI).
+        Most of program well separated into components.
+        Shows strong effort toward organization and refactoring for clarity.
+        Saw appropriate use of each, map, select, sort!
       Functional Expectations: 3.5
       REPL Interface: 3
       Test-Driven Development: 3
       Breaking Logic into Components: 3
       Fundamental Ruby & Style: 3
       Enumerable & Collections: 3
-    peer_evaluation: 
+    peer_evaluation:
       notes: ""
       Functional Expectations: 0
       REPL Interface: 0
