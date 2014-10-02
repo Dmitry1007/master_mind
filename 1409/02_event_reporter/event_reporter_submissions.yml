@@ -1,6 +1,6 @@
 submissions:
-  Travis Yoder & Kalah Cheek:https://github.com/trayo/event_reporter.git
-    repository:
+  Travis Yoder & Kalah Cheek:
+    repository: https://github.com/trayo/event_reporter.git
     evaluation:
       notes: ""
       Functional Expectations: 0
