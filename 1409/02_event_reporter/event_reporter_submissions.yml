@@ -21,12 +21,12 @@ submissions:
     repository:https://github.com/gregnar/event_reporter
     evaluation:
       notes: ""
-      Functional Expectations: 0
-      REPL Interface: 0
-      Test-Driven Development: 0
-      Breaking Logic into Components: 0
-      Fundamental Ruby & Style: 0
-      Enumerable & Collections: 0
+      Functional Expectations: 2.5
+      REPL Interface: 3
+      Test-Driven Development: 2.5
+      Breaking Logic into Components: 3
+      Fundamental Ruby & Style: 3
+      Enumerable & Collections: 4
     peer_evaluation:
       notes: ""
       Functional Expectations: 0
