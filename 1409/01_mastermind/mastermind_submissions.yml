@@ -177,7 +177,7 @@ submissions:
       REPL Interface: 3
       Breaking Logic into Components: 3
   Danny Glunz:
-    repository:
+    repository: [Mastermind](https://github.com/dglunz/mastermind) & [Battleship](https://github.com/dglunz/battleship)
     notes: "Completed both Mastermind and Battleship.
             Lacking sufficient test coverage.
             Excellent REPL interface; included game board.
