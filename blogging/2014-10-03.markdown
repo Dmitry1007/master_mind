@@ -43,4 +43,4 @@ Please add the link to your technical blog post below:
 * Travis Yoder: 
 * Victoria Harrod: 
 * Will Faurot: 
-* Zachary Routhier: 
+* Zachary Routhier: https://medium.com/@z_Routh/turing-event_reporter-89683517faac
