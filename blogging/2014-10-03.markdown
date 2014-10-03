@@ -18,7 +18,7 @@ Please add the link to your technical blog post below:
 * Emily Davis: 
 * Eric Fransen: 
 * Glen Egbert: 
-* Gregory Narajka: 
+* Gregory Narajka: https://greg-turing.ghost.io/how-to-print-tables-to-the-command-line-a-pastiche-of-real-korean-high-school-student-essays/
 * Gustavo Villagrana: 
 * Herbert Joseph: 
 * Hilary Denton: 
