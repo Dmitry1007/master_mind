@@ -41,6 +41,6 @@ Please add the link to your technical blog post below:
 * Tim Proctor: 
 * Timothy Mee: 
 * Travis Yoder: 
-* Victoria Harrod: 
+* Victoria Harrod: http://viki-at-turing.herokuapp.com/2014/10/03/first-pair-project-observations.html
 * Will Faurot: 
 * Zachary Routhier: 
