@@ -10,7 +10,7 @@ Please add the link to your technical blog post below:
 * Cara Dennis: 
 * Chad Brading: 
 * Chandra Carney: 
-* Chase van Hekken: 
+* Chase van Hekken: https://medium.com/@ChasevH/the-ruby-send-method-afe882a8191c
 * Christopher Bynum: 
 * Corey Davis: 
 * Danny Glunz: 
