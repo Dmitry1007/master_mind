@@ -34,7 +34,7 @@ Please add the link to your technical blog post below:
 * Luke Aiken: 
 * Marc Garreau: 
 * Robert Gu: 
-* Rolando Navarrete: 
+* Rolando Navarrete: http://chaosruby.com
 * Sam Kuhlmann: 
 * Sara Simon: 
 * Tan Doan: 
