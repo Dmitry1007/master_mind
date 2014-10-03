@@ -23,7 +23,7 @@ Please add the link to your technical blog post below:
 * Herbert Joseph: 
 * Hilary Denton: 
 * Horacio Chavez: 
-* Ian Andersen: 
+* Ian Andersen: http://www.mindfulprogramming.com/creating-an-admin-controller-in-rails/
 * Jessica Goulding: 
 * Jim Sutton: 
 * Jonmichael Chambers: 
