@@ -3,7 +3,7 @@ Please add the link to your technical blog post below:
 * Aaron Paul Wortham: 
 * Adam Smith: this is provisional:  http://limitless-basin-1982.herokuapp.com/
 * Alan Smith: 
-* Alex Jensen: 
+* Alex Jensen: http://rubywithalex.herokuapp.com/
 * Allison Larson: 
 * Andrew Watkins: 
 * Andy Mention: 
