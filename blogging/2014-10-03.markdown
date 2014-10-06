@@ -13,7 +13,7 @@ Please add the link to your technical blog post below:
 * Chase van Hekken: 
 * Christopher Bynum: 
 * Corey Davis: 
-* Danny Glunz: 
+* Danny Glunz: http://www.danielglunz.com/github/gitting-started/ 
 * David Bayendor: 
 * Emily Davis: 
 * Eric Fransen: 
