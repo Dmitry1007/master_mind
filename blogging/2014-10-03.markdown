@@ -1,7 +1,7 @@
 Please add the link to your technical blog post below:
 
 * Aaron Paul Wortham: 
-* Adam Smith: 
+* Adam Smith: this is provisional:  http://limitless-basin-1982.herokuapp.com/
 * Alan Smith: 
 * Alex Jensen: 
 * Allison Larson: 
