@@ -33,7 +33,7 @@ Sam Kuhlmann & Zachary Routhier:
         Code Sanitation: 3
 
 Travis Yoder & David Bayendor:
-    repository: 
+    repository: git@github.com:trayo/sales_engine.git
     setup_notes: ""
     instructor_evaluation:
       notes: ""
