@@ -22,5 +22,3 @@ You must filter data appropriately in both the web and API based on authorizatio
 * Organization: 3
 * Test-Driven Development: 2
 * Code Quality: 3
-
-## Demo: Skip
