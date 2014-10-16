@@ -36,14 +36,18 @@ Travis Yoder & David Bayendor:
     repository: git@github.com:trayo/sales_engine.git
     setup_notes: ""
     instructor_evaluation:
-      notes: ""
+      notes: "Well-tested in isolation and w/ mocks for repos and sales engine. Would like to see tests for sales engine logic. 
+              All but three tests passing in spec harness.
+              Application shows strong effort towards organization, content, and refactoring.
+              Application consistently makes use of the best-choice Enumerable methods.
+              Zero complaints for rake sanitation."
       rubric:
-        Functional Expectations: 
-        Test-Driven Development: 
-        Encapsulation / Components:
-        Fundamental Ruby & Style: 
-        Enumerable & Collections:
-        Code Sanitation:
+        Functional Expectations: 2.5
+        Test-Driven Development: 3
+        Encapsulation / Components: 3
+        Fundamental Ruby & Style: 3
+        Enumerable & Collections: 4
+        Code Sanitation: 4
 
 Adam Smith & Alex Jensen & Herbert Joseph:
     repository: 
