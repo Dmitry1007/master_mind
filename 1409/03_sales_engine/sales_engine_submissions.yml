@@ -1,15 +1,19 @@
 Chandra Carney & Gregory Narajka:
-    repository: 
+    repository: https://github.com/gregnar/sales_engine.git
     setup_notes: ""
     instructor_evaluation:
-      notes: ""
+      notes: "fulfills all base expectations.
+              passes spec harness.
+              well-tested; would like to see unit tests and integration tests split apart.
+              application shows strong effort towards organization, content, and refactoring.
+              application consistently makes use of the best-choice Enumerable methods."
       rubric:
-        Functional Expectations: 
-        Test-Driven Development: 
-        Encapsulation / Components:
-        Fundamental Ruby & Style: 
-        Enumerable & Collections:
-        Code Sanitation:
+        Functional Expectations: 3
+        Test-Driven Development: 3
+        Encapsulation / Components: 3.5
+        Fundamental Ruby & Style: 3
+        Enumerable & Collections: 4
+        Code Sanitation: 4
 
 Sam Kuhlmann & Zachary Routhier:
     repository: 
