@@ -65,3 +65,10 @@ about how to be competitive for that next job.
     Bureau of Labor Statistics, LinkedIn, Glassdoor or similar, etc.
 * [Any other integrations?]
 
+#### Assessment
+
+* Feature Completion: 2.5
+* Project Completion: 3
+* User Experience: 2.5
+* Test-Driven Development: 2
+* Code Quality: 3
