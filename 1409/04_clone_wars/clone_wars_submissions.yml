@@ -32,3 +32,25 @@ submissions:
       Fundamental Ruby & Style: 2.5
       Sinatra / Web and Business Logic: 3
       View Layer: 2
+submissions:
+   Timothy Mee & Gregory Narajka & Konr Josef Laron
+    repository: https://github.com/Tmee/Clone-Wars---Jimmy-s
+    evaluation:
+      notes: "Code looked pretty solid. Did three extensions. Tests checked for info on page but failed to interact with page elements. Database logic could have been split up better. Ruby looked good."
+      Functional Expectations: 4
+      Test Driven Development: 1.5
+      Breaking Logic into Components: 3
+      Fundamental Ruby & Style: 3.5
+      Sinatra / Web and Business Logic: 3
+      View Layer: 3
+submissions:
+   Chandra Carney & Adam Smith & Victoria Harrod
+    repository: https://github.com/VikiAnn/backcountry-deli-clone-wars
+    evaluation:
+      notes: "No tests. Code was headed in the right direction and the group knew what to do, but seemed to run out of time. Code written at the end is much nicer."
+      Functional Expectations: 3
+      Test Driven Development: 1
+      Breaking Logic into Components: 2.5
+      Fundamental Ruby & Style: 3
+      Sinatra / Web and Business Logic: 2.5
+      View Layer: 3
