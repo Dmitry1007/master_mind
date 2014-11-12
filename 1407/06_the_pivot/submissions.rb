@@ -14,10 +14,10 @@ def project
                   }
                 },
     :group1 => {  :app_name      => 'dope_threads'
-                  :members       => ['Name1', 'Name2', 'Name3'],
-                  :repo_url      => 'https://github.com/someproject.git',
-                  :production_url=> 'none',
-                  :collaborators => ['you@example.com','you2@example.com'],
+                  :members       => ['Ian Andersen', 'Glen Egbert', 'Rolando Naverrete'],
+                  :repo_url      => 'https://github.com/glenegbert/the_pivot',
+                  :production_url=> 'https://young-ocean-9633.herokuapp.com/',
+                  :collaborators => ['ianderse@mac.com','kinglouis.belmont@gmail.com', 'glenegbert1@gmail.com'],
                   :technical_evaluation => {
                     :modeling    => 0,
                     :interface   => 0,
