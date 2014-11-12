@@ -1,22 +1,3 @@
-Repository URL: 
-
-## Evaluation Notes
-
-## Evaluation Scoring
-
-### Feature Delivery
-
-* Completion: 
-* Organization: 
-* Progress: 
-
-#### Technical Quality
-
-* Test-Driven Development: 
-* Code Quality: 
-* User Experience: 
-
-
 
 ## Notes
 
