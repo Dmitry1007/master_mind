@@ -1,3 +1,22 @@
+Repository URL: 
+
+## Evaluation Notes
+
+## Evaluation Scoring
+
+### Feature Delivery
+
+* Completion: 
+* Organization: 
+* Progress: 
+
+#### Technical Quality
+
+* Test-Driven Development: 
+* Code Quality: 
+* User Experience: 
+
+
 ## Notes
 
 * Goal for today: wireframing, instagram omniauth
@@ -21,3 +40,4 @@
 * Test-Driven Development: 2
 * Code Quality: ?
 * User Experience: 2.5
+

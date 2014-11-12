@@ -1,3 +1,22 @@
+Repository URL: 
+
+## Evaluation Notes
+
+## Evaluation Scoring
+
+### Feature Delivery
+
+* Completion: 
+* Organization: 
+* Progress: 
+
+#### Technical Quality
+
+* Test-Driven Development: 
+* Code Quality: 
+* User Experience: 
+
+
 ## Notes
 
 * For Today: logging in with OAuth, pull information from APIs, starting to build a feed

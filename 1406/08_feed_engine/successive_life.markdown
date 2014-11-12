@@ -1,3 +1,22 @@
+Repository URL: 
+
+## Evaluation Notes
+
+## Evaluation Scoring
+
+### Feature Delivery
+
+* Completion: 
+* Organization: 
+* Progress: 
+
+#### Technical Quality
+
+* Test-Driven Development: 
+* Code Quality: 
+* User Experience: 
+
+
 ## Notes
 
 * Goal for today: landing page, basics of creating a goal/streak, get the VPS started
