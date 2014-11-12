@@ -1,10 +1,10 @@
 def project
   {
     :group1 => {  :app_name      => 'airlift'
-                  :members       => ['Name1', 'Name2', 'Name3'],
-                  :repo_url      => 'https://github.com/someproject.git',
-                  :production_url=> 'none',
-                  :collaborators => ['you@example.com','you2@example.com'],
+                  :members       => ['Jim Sutton', 'Jessica Goulding', 'Kavita'],
+                  :repo_url      => 'https://github.com/JessicaG/the_pivot',
+                  :production_url=> 'http://airlifter.herokuapp.com/',
+                  :collaborators => ['jimsuttonjimsutton@gmail.com','jgoulding2@gmail.com'],
                   :technical_evaluation => {
                     :modeling    => 0,
                     :interface   => 0,
