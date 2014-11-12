@@ -1,6 +1,6 @@
 def project
   {
-    :group1 => {  :app_name      => 'project name'
+    :group1 => {  :app_name      => 'airlift'
                   :members       => ['Name1', 'Name2', 'Name3'],
                   :repo_url      => 'https://github.com/someproject.git',
                   :production_url=> 'none',
@@ -13,7 +13,7 @@ def project
                     :comments    => ""
                   }
                 },
-    :group1 => {  :app_name      => 'project name'
+    :group1 => {  :app_name      => 'dope_threads'
                   :members       => ['Name1', 'Name2', 'Name3'],
                   :repo_url      => 'https://github.com/someproject.git',
                   :production_url=> 'none',
@@ -26,7 +26,7 @@ def project
                     :comments    => ""
                   }
                 },
-    :group1 => {  :app_name      => 'project name'
+    :group1 => {  :app_name      => 'gallery'
                   :members       => ['Name1', 'Name2', 'Name3'],
                   :repo_url      => 'https://github.com/someproject.git',
                   :production_url=> 'none',
