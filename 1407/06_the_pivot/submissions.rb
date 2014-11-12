@@ -27,10 +27,10 @@ def project
                   }
                 },
     :group1 => {  :app_name      => 'gallery'
-                  :members       => ['Name1', 'Name2', 'Name3'],
+                  :members       => ['Aaron Wortham', 'Luke Aiken', 'Sarah Simon'],
                   :repo_url      => 'https://github.com/someproject.git',
                   :production_url=> 'none',
-                  :collaborators => ['you@example.com','you2@example.com'],
+                  :collaborators => ['wortham.aaron@gmail.com', 'lukeaiken@gmail.com', 'smbsimon@gmail.com'],
                   :technical_evaluation => {
                     :modeling    => 0,
                     :interface   => 0,
