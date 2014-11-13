@@ -115,7 +115,31 @@ submissions:
       Breaking Logic into Components: 0
   Krista A Nelson:
     repository: https://github.com/KristaANelson/mastermind
-    notes:
+    notes: |
+      Assessed by Josh Cheek
+
+      1. Fundamental Ruby & Style
+      Score: 3
+      Keep indentation correct
+      Guess checker was nice
+      methods that do things should imply this in their names
+
+      2. Enumerable & Collections
+      Score: 3
+      Good use of enumerables, but still a few you could look for when you find yourself doing logic across a collection
+
+      3. Test-Driven Development
+      Score: 2
+
+      4. REPL Interface
+      Score: 4
+
+      5. Breaking Logic into Components
+      Score: 2.5
+      toplevel puts
+      Fix input where it comes in, not where used
+      Don't let lower level components know where they fall in a higher level process
+      Avoid duplicate logic (e.g. determining invalid guess and creating a message based on it)
     evaluation:
       Fundamental Ruby & Style: 0
       Enumerable & Collections: 0
