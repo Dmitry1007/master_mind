@@ -23,3 +23,29 @@
 * Code Quality: ?
 * User Experience: 2.5
 
+## Final Evaluation
+
+### Notes
+
+* Last days: user experience, adding a map, removing duplicate records, added caching, wrapper gem for API
+* Project Management: good usage, nothing major left undone
+* Product Tour:
+  * Running on localhost
+  * Having trouble loading data initially
+  * Need more data to show off the functionality
+* The Code:
+  * overall good
+  * testing is solid on happy path, need more unhappy path
+  * API is kind of proof of concept but has a gem
+
+### Scores
+
+* A: API - 3
+* B: Workers - 2 need to use your own API
+* C: TDD - 2 need more unhappy path tests
+* D: Technical - 4
+
+* A: Deployment - 1*
+* B: Features - 3
+* C: Interface - 3
+* D: Concept - 3
