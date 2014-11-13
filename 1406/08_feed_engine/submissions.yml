@@ -37,9 +37,9 @@ submissions:
     notes:
   group3:
     app_name: "successive life"
-    members:
-    repo_url:
-    production_url:
+    members: Tan Doan, Bobbie Gu, ERic Fransen, Gus
+    repo_url: https://github.com/ericfransen/successive_life
+    production_url: https://104.236.2.42
     collaborators:
     technical_evaluation:
       APIs:
