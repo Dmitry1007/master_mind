@@ -142,13 +142,42 @@ submissions:
       Breaking Logic into Components: 0
   Kit Pearson:
     repository: https://github.com/kpearson/mastermind
-    notes:
+    notes: |
+      Assessed by Josh Cheek
+      1. Fundamental Ruby & Style
+      Score: 3.5
+      bin in bin dir
+      Like the DIFFICULTY_MAP
+      watch indentation
+      generally good
+      some misspellings
+
+      2. Enumerable & Collections
+      Score: 4
+      Good use of zip and count
+      Nice use of String#count
+
+      3. Test-Driven Development
+      Score: 1
+      Missing tests on Cli and Game
+      Logic in game would be easy to test if extracted from Game, or if CLIness (loop, gets, puts) was pulled out of game and up into CLI
+
+      4. REPL Interface
+      Score: 2.5
+      Can enter menu options at any point
+      Prompts not always displayed when input is expected
+      A little whitespace would go a long way
+
+      5. Breaking Logic into Components
+      Score: 2.5
+      Some good choices, like pulling difficulty into CLI, letting SequenceGenerator take whatever
+      Tests suffered as a consequence of game logic being integrated in the same object (Game) with cli decisions (mentioned earlier)
     evaluation:
-      Fundamental Ruby & Style: 0
-      Enumerable & Collections: 0
-      Test-Driven Development: 0
-      REPL Interface: 0
-      Breaking Logic into Components: 0
+      Fundamental Ruby & Style: 3.5
+      Enumerable & Collections: 4
+      Test-Driven Development: 1
+      REPL Interface: 2.5
+      Breaking Logic into Components: 2.5
   Chris Luhring:
     repository: https://github.com/cluhring/Mastermind
     notes: |
