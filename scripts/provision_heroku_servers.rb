@@ -1,4 +1,4 @@
-require './gschool-1/projects/fourth_meal'
+require './1407/06_the_pivot/submissions'
 
 class Provisioner
   def setup
@@ -55,11 +55,11 @@ class Provisioner
   def run
     setup
 
-    project.each do |team_name, details|
-      clone_repository(details[:repo_url], team_name)
-      
-      within_project_directory(team_name) do
-        create_app(team_name)
+    project.each do |identifier, details|
+      clone_repository(details[:repo_url], details[:app_name])
+
+      within_project_directory(details[:app_name]) do
+        create_app(details[:app_name])
         setup_database
         add_addons
         deploy

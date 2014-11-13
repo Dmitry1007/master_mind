@@ -1,6 +1,6 @@
 def project
   {
-    :group1 => {  :app_name      => 'airlift'
+    :group1 => {  :app_name      => 'airlift',
                   :members       => ['Jim Sutton', 'Jessica Goulding', 'Kavita'],
                   :repo_url      => 'https://github.com/JessicaG/the_pivot',
                   :production_url=> 'http://airlifter.herokuapp.com/',
@@ -13,7 +13,7 @@ def project
                     :comments    => ""
                   }
                 },
-    :group1 => {  :app_name      => 'dope_threads'
+    :group2 => {  :app_name      => 'dope_threads',
                   :members       => ['Ian Andersen', 'Glen Egbert', 'Rolando Naverrete'],
                   :repo_url      => 'https://github.com/glenegbert/the_pivot',
                   :production_url=> 'https://young-ocean-9633.herokuapp.com/',
@@ -26,7 +26,7 @@ def project
                     :comments    => ""
                   }
                 },
-    :group1 => {  :app_name      => 'gallery'
+    :group3 => {  :app_name      => 'gallery',
                   :members       => ['Aaron Wortham', 'Luke Aiken', 'Sarah Simon'],
                   :repo_url      => 'https://github.com/someproject.git',
                   :production_url=> 'none',
@@ -40,4 +40,8 @@ def project
                   }
                 }
   }
+end
+
+def config
+  {:abbreviation => 'the_pivot'}
 end
