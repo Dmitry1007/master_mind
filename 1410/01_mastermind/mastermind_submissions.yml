@@ -159,14 +159,47 @@ submissions:
       REPL Interface: 0
       Breaking Logic into Components: 0
   Andrew Overby:
-    repository: 
-    notes: 
+    repository: git@github.com:Overby/Mastermind
+    notes: |
+      Assessed by Josh Cheek
+
+      1. Fundamental Ruby & Style
+      Score: 2
+      Using require_relative instead of fixing the $LOAD_PATH
+      Like the Messages class
+      Delete unused code
+      Nice use of String#scan
+      Clean up comments from playing around (e.g. code at end of Game)
+      Clean up code you're no longer using (e.g. cli.rb and guess.rb -- just delete them)
+
+      2. Enumerable & Collections
+      Score: 1.5
+      Solving position_count by accessing positionally rather than iterating
+      Uses enumerables to solve correct_count, but there are more useful enumerable methods in the stdlib (e.g. Enumerable#count)
+
+      3. Test-Driven Development
+      Score: 1
+      Cannot run tests b/c of syntax error
+      Tests start a game (thus hanging)
+      Just generally missing
+
+      4. REPL Interface
+      Score: 2
+      Same solution every time
+      Could use whitespace better to make it clearer where we were at
+      A little more attention to detail would go a long way
+
+      5. Breaking Logic into Components
+      Score: 2
+      Need to pay more attention to what objects are being talked to (tests would have caught this) (specifically, sometimes talking to the output stream, sometimes to Kernel#puts)
+      All of the game logic embedded into the Game (coupled to command-line), such that can't be easily tested or reused.
+
     evaluation:
-      Fundamental Ruby & Style: 0
-      Enumerable & Collections: 0
-      Test-Driven Development: 0
-      REPL Interface: 0
-      Breaking Logic into Components: 0
+      Fundamental Ruby & Style: 2
+      Enumerable & Collections: 1.5
+      Test-Driven Development: 1
+      REPL Interface: 2
+      Breaking Logic into Components: 2
   Juan Manuel Navarro:
     repository:
     notes:
