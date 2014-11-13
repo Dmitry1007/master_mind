@@ -1,13 +1,16 @@
 submissions:
   Rich Shea:
     repository: https://github.com/rshea303/mastermind
-    notes: 
+    notes: "Fully working with base expectations. 
+            Shows effort toward organization and refactoring.
+            Shows effort to break logical components apart.
+            Good use of unit testing."
     evaluation:
-      Fundamental Ruby & Style: 0
-      Enumerable & Collections: 0
-      Test-Driven Development: 0
-      REPL Interface: 0
-      Breaking Logic into Components: 0
+      Fundamental Ruby & Style: 3
+      Enumerable & Collections: 2.5
+      Test-Driven Development: 2.5
+      REPL Interface: 3
+      Breaking Logic into Components: 2.5
   Laura Whalin:
     repository: https://github.com/laurawhalin/mastermind
     notes: 
