@@ -133,13 +133,45 @@ submissions:
       Breaking Logic into Components: 0
   Scott Crawford:
     repository: https://github.com/scottcrawford03/mastermind
-    notes:
+    notes: |
+      Assessed by Josh Cheek
+
+      1. Fundamental Ruby & Style
+      Score: 3
+      gemified (
+        nice, but read:
+          http://guides.rubygems.org/patterns/ -- esp look at the directory structure -- there's stuff we didn't teach you
+        and check out https://github.com/JoshCheek/seeing_is_believing/blob/6c05906b6484a9a47902793b8bc3743db101d620/seeing_is_believing.gemspec#L20
+          to see how to fix $LOAD_PATH for people who use the gem
+      )
+      make sure methods are defined in the class, not on Object
+      careful when sharing objects (don't modify them)
+
+      2. Enumerable & Collections
+      Score: 3
+      Accomplished what was needed
+      Probably there are enumerables that would make this easier (e.g. count, select, stuff like that)
+
+      3. Test-Driven Development
+      Score: 2
+      Cli isn't covered
+      Game could use more coverage
+
+      4. REPL Interface
+      Score: 4
+      Nice interface
+      colours / table
+      works correctly
+
+      5. Breaking Logic into Components
+      Score: 3
+      Good using the stream that was passed in
     evaluation:
-      Fundamental Ruby & Style: 0
-      Enumerable & Collections: 0
-      Test-Driven Development: 0
-      REPL Interface: 0
-      Breaking Logic into Components: 0
+      Fundamental Ruby & Style: 3
+      Enumerable & Collections: 3
+      Test-Driven Development: 2
+      REPL Interface: 4
+      Breaking Logic into Components: 3
   Kit Pearson:
     repository: https://github.com/kpearson/mastermind
     notes: |
