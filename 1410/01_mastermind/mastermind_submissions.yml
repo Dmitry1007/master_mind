@@ -151,13 +151,42 @@ submissions:
       Breaking Logic into Components: 0
   Chris Luhring:
     repository: https://github.com/cluhring/Mastermind
-    notes:
+    notes: |
+      Assessed by Josh Cheek
+      git@github.com:cluhring/Mastermind.git
+
+      1. Fundamental Ruby & Style
+      Score: 2
+      Keep indentation correct (would alert you to having closed the class and defining methods on Object)
+      Good fixing the load path
+      Use names that allow you to understand what it does (e.g. ColorChecker instead of GuessChecker1)
+      Work on choosing names that let you know how to use (what it does) it purely based on its name
+
+      2. Enumerable & Collections
+      Score: 1
+      Hard-coding against indexes instead of using enumerables
+
+      3. Test-Driven Development
+      Score: 1
+      No actual tests (1 in each, all the same)
+
+      4. REPL Interface
+      Score: 2.5
+      Two goodbyes
+      After we got it completing, interface was decent
+      With the game loop, just spend more time figuring out why it's doing what it's doing, and what needs to change to do what you want it to do
+
+      5. Breaking Logic into Components
+      Score: 3.5
+      GuessChecker1 has good boundaries
+      Good pulling the checkers out of Game
+      Timer is a good abstraction, but doesn't work independently (once it was working, was nice to not have to deal with that info in Game)
     evaluation:
-      Fundamental Ruby & Style: 0
-      Enumerable & Collections: 0
-      Test-Driven Development: 0
-      REPL Interface: 0
-      Breaking Logic into Components: 0
+      Fundamental Ruby & Style: 2
+      Enumerable & Collections: 1
+      Test-Driven Development: 1
+      REPL Interface: 2.5
+      Breaking Logic into Components: 3.5
   Andrew Overby:
     repository: git@github.com:Overby/Mastermind
     notes: |
