@@ -1,7 +1,7 @@
 submissions:
   Rich Shea:
     repository: https://github.com/rshea303/mastermind
-    notes: "Fully working with base expectations. 
+    notes: "Fully working with base expectations.
             Shows effort toward organization and refactoring.
             Shows effort to break logical components apart.
             Good use of unit testing."
@@ -23,7 +23,7 @@ submissions:
       Test-Driven Development: 2.5
       REPL Interface: 4
       Breaking Logic into Components: 3.5
-  Jeffrey Wan: 
+  Jeffrey Wan:
     repository: https://github.com/Jwan622/Mastermind
     notes: final
     evaluation:
@@ -34,7 +34,7 @@ submissions:
       Breaking Logic into Components: 3
   Bryce Holcomb:
     repository: https://github.com/bryceholcomb/mastermind
-    notes: 
+    notes:
     evaluation:
       Fundamental Ruby & Style: 3
       Enumerable & Collections: 3
@@ -43,7 +43,7 @@ submissions:
       Breaking Logic into Components: 3.5
   Lori Culberson:
     repository: https://github.com/loriculberson/mastermindlc.git
-    notes: 
+    notes:
     evaluation:
       Fundamental Ruby & Style: 3
       Enumerable & Collections: 3
@@ -52,7 +52,7 @@ submissions:
       Breaking Logic into Components: 2.5
   Nathan Owsiany:
     repository: https://github.com/ndwhtlssthr/mastermind
-    notes: 
+    notes:
     evaluation:
       Fundamental Ruby & Style: 3.5
       Enumerable & Collections: 3.5
@@ -61,7 +61,7 @@ submissions:
       Breaking Logic into Components: 3.5
   Emily Berkeley:
     repository: https://github.com/EmilyMB/mastermind/
-    notes: 
+    notes:
     evaluation:
       Fundamental Ruby & Style: 0
       Enumerable & Collections: 0
@@ -69,8 +69,8 @@ submissions:
       REPL Interface: 0
       Breaking Logic into Components: 0
   Edward McCarthy:
-    repository: 
-    notes: 
+    repository:
+    notes:
     evaluation:
       Fundamental Ruby & Style: 0
       Enumerable & Collections: 0
@@ -79,7 +79,7 @@ submissions:
       Breaking Logic into Components: 0
   Michael Dao:
     repository: https://github.com/mikedao/mastermind
-    notes: 
+    notes:
     evaluation:
       Fundamental Ruby & Style: 0
       Enumerable & Collections: 0
@@ -87,8 +87,8 @@ submissions:
       REPL Interface: 0
       Breaking Logic into Components: 0
   Kalah Cheek:
-    repository:https://github.com/kcheek/mastermind2.git 
-    notes: 
+    repository: https://github.com/kcheek/mastermind2.git
+    notes:
     evaluation:
       Fundamental Ruby & Style: 0
       Enumerable & Collections: 0
@@ -97,25 +97,25 @@ submissions:
       Breaking Logic into Components: 0
   Orion Osborn:
     repository: https://github.com/oorion/mastermind
-    notes: 
+    notes:
     evaluation:
       Fundamental Ruby & Style: 0
       Enumerable & Collections: 0
       Test-Driven Development: 0
       REPL Interface: 0
       Breaking Logic into Components: 0
-  Bhargavi Satpathy: https://github.com/bhargavisatpathy/mastermind.git
-    repository: 
-    notes: 
+  Bhargavi Satpathy:
+    repository: https://github.com/bhargavisatpathy/mastermind.git
+    notes:
     evaluation:
       Fundamental Ruby & Style: 0
       Enumerable & Collections: 0
       Test-Driven Development: 0
       REPL Interface: 0
       Breaking Logic into Components: 0
-  Krista A Nelson:https://github.com/KristaANelson/mastermind
-    repository: 
-    notes: 
+  Krista A Nelson:
+    repository: https://github.com/KristaANelson/mastermind
+    notes:
     evaluation:
       Fundamental Ruby & Style: 0
       Enumerable & Collections: 0
@@ -124,7 +124,7 @@ submissions:
       Breaking Logic into Components: 0
   Brandon Mrsny:
     repository: https://github.com/bmrsny/mastermind
-    notes: 
+    notes:
     evaluation:
       Fundamental Ruby & Style: 0
       Enumerable & Collections: 0
@@ -133,7 +133,7 @@ submissions:
       Breaking Logic into Components: 0
   Scott Crawford:
     repository: https://github.com/scottcrawford03/mastermind
-    notes: 
+    notes:
     evaluation:
       Fundamental Ruby & Style: 0
       Enumerable & Collections: 0
@@ -142,7 +142,7 @@ submissions:
       Breaking Logic into Components: 0
   Kit Pearson:
     repository: https://github.com/kpearson/mastermind
-    notes: 
+    notes:
     evaluation:
       Fundamental Ruby & Style: 0
       Enumerable & Collections: 0
@@ -151,7 +151,7 @@ submissions:
       Breaking Logic into Components: 0
   Chris Luhring:
     repository: https://github.com/cluhring/Mastermind
-    notes: 
+    notes:
     evaluation:
       Fundamental Ruby & Style: 0
       Enumerable & Collections: 0
@@ -168,8 +168,8 @@ submissions:
       REPL Interface: 0
       Breaking Logic into Components: 0
   Juan Manuel Navarro:
-    repository: 
-    notes: 
+    repository:
+    notes:
     evaluation:
       Fundamental Ruby & Style: 0
       Enumerable & Collections: 0
@@ -177,8 +177,8 @@ submissions:
       REPL Interface: 0
       Breaking Logic into Components: 0
   Dustin Gault:
-    repository: 
-    notes: 
+    repository:
+    notes:
     evaluation:
       Fundamental Ruby & Style: 0
       Enumerable & Collections: 0
@@ -187,7 +187,7 @@ submissions:
       Breaking Logic into Components: 0
   Lydia Shafer:
     repository: https://github.com/Lydias303/mastermind
-    notes: 
+    notes:
     evaluation:
       Fundamental Ruby & Style: 0
       Enumerable & Collections: 0
@@ -195,8 +195,8 @@ submissions:
       REPL Interface: 0
       Breaking Logic into Components: 0
   Alexandra Robinson:
-    repository: 
-    notes: 
+    repository:
+    notes:
     evaluation:
       Fundamental Ruby & Style: 0
       Enumerable & Collections: 0
