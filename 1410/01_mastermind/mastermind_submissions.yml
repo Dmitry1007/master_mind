@@ -168,38 +168,38 @@ submissions:
       REPL Interface: 0
       Breaking Logic into Components: 0
   Juan Manuel Navarro:
-    repository: 
-    notes: 
+    repository:
+    notes:
     evaluation:
-      Fundamental Ruby & Style: 0
-      Enumerable & Collections: 0
-      Test-Driven Development: 0
-      REPL Interface: 0
-      Breaking Logic into Components: 0
+      Fundamental Ruby & Style: 2
+      Enumerable & Collections: 2.5
+      Test-Driven Development: 2
+      REPL Interface: 3
+      Breaking Logic into Components: 2.5
   Dustin Gault:
-    repository: 
-    notes: 
+    repository:
+    notes:
     evaluation:
-      Fundamental Ruby & Style: 0
-      Enumerable & Collections: 0
-      Test-Driven Development: 0
-      REPL Interface: 0
-      Breaking Logic into Components: 0
+      Fundamental Ruby & Style: 2.5
+      Enumerable & Collections: 3
+      Test-Driven Development: 1
+      REPL Interface: 4
+      Breaking Logic into Components: 2
   Lydia Shafer:
     repository: https://github.com/Lydias303/mastermind
-    notes: 
+    notes: 'Great style. Code read very well.'
     evaluation:
-      Fundamental Ruby & Style: 0
-      Enumerable & Collections: 0
-      Test-Driven Development: 0
-      REPL Interface: 0
-      Breaking Logic into Components: 0
+      Fundamental Ruby & Style: 3
+      Enumerable & Collections: 2.5
+      Test-Driven Development: 2.5
+      REPL Interface: 2.5
+      Breaking Logic into Components: 2.5
   Alexandra Robinson:
-    repository: 
-    notes: 
+    repository:
+    notes: 'Created a gem. Separated logic and classes very well.'
     evaluation:
-      Fundamental Ruby & Style: 0
-      Enumerable & Collections: 0
-      Test-Driven Development: 0
-      REPL Interface: 0
-      Breaking Logic into Components: 0
+      Fundamental Ruby & Style: 2.5
+      Enumerable & Collections: 2.5
+      Test-Driven Development: 3
+      REPL Interface: 4
+      Breaking Logic into Components: 3
