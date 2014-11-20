@@ -20,7 +20,7 @@ submissions:
       Fundamental Ruby & Style: 0
       Enumerable & Collections: 0
   Kit Pearson & Orion Osborn:
-    repository: 
+    repository: https://github.com/oorion/event_reporter
     evaluation:
       notes: ""
       Functional Expectations: 0
