@@ -1,0 +1,103 @@
+submissions:
+  Alexandra Robinson & Juan Manuel Navarro:
+    repository: 
+    evaluation:
+      notes: ""
+      Functional Expectations: 0
+      REPL Interface: 0
+      Test-Driven Development: 0
+      Breaking Logic into Components: 0
+      Fundamental Ruby & Style: 0
+      Enumerable & Collections: 0
+  Andrew Overby & Chris Luhring:
+    repository: https://github.com/cluhring/event_reporter
+    evaluation:
+      notes:
+      Functional Expectations: 0
+      REPL Interface: 0
+      Test-Driven Development: 0
+      Breaking Logic into Components: 0
+      Fundamental Ruby & Style: 0
+      Enumerable & Collections: 0
+  Kit Pearson & Orion Osborn:
+    repository: https://github.com/oorion/event_reporter
+    evaluation:
+      notes: ""
+      Functional Expectations: 0
+      REPL Interface: 0
+      Test-Driven Development: 0
+      Breaking Logic into Components: 0
+      Fundamental Ruby & Style: 0
+      Enumerable & Collections: 0
+  Brandon Mrsny & Nathan Owsiany:
+    repository: https://github.com/bmrsny/event_reporter
+    evaluation:
+      notes: ""
+      Functional Expectations: 0
+      REPL Interface: 0
+      Test-Driven Development: 0
+      Breaking Logic into Components: 0
+      Fundamental Ruby & Style: 0
+      Enumerable & Collections: 0
+  Dustin Gault & Emily Berkeley:
+    repository: https://github.com/DSynergy/Event_Reporter
+    evaluation:
+      notes: ""
+      Functional Expectations: 0
+      REPL Interface: 0
+      Test-Driven Development: 0
+      Breaking Logic into Components: 0
+      Fundamental Ruby & Style: 0
+      Enumerable & Collections: 0
+  Lori Culberson & Michael Dao:
+    repository: https://github.com/mikedao/event_reporter
+    evaluation:
+      notes: ""
+      Functional Expectations: 0
+      REPL Interface: 0
+      Test-Driven Development: 0
+      Breaking Logic into Components: 0
+      Fundamental Ruby & Style: 0
+      Enumerable & Collections: 0
+  Bhargavi Satpathy & Jeffrey Wan & Edward McCarthy:
+    repository: https://github.com/bhargavisatpathy/event_manager
+    evaluation:
+      notes: ""
+      Functional Expectations: 0
+      REPL Interface: 0
+      Test-Driven Development: 0
+      Breaking Logic into Components: 0
+      Fundamental Ruby & Style: 0
+      Enumerable & Collections: 0
+  Bryce Holcomb & Laura Whalin:
+    repository: https://github.com/bryceholcomb/event_reporter
+    evaluation:
+      notes: ""
+      Functional Expectations: 0
+      REPL Interface: 0
+      Test-Driven Development: 0
+      Breaking Logic into Components: 0
+      Fundamental Ruby & Style: 0
+      Enumerable & Collections: 0
+  Rich Shea & Scott Crawford:
+    repository: https://github.com/scottcrawford03/event_reporter
+    evaluation:
+      notes: "All base expectations fulfilled; partially implemented two extensions.
+              REPL is easy to use; tables are nicely formatted.
+              Well-factored code; processor could use some refactoring."
+      Functional Expectations: 3
+      REPL Interface: 3.5
+      Test-Driven Development: 3.5
+      Breaking Logic into Components: 3
+      Fundamental Ruby & Style: 3
+      Enumerable & Collections: 3
+  Lydia Shafer & Krista A Nelson:
+    repository: https://github.com/KristaANelson/event_reporter
+    evaluation:
+      notes: ""
+      Functional Expectations: 0
+      REPL Interface: 0
+      Test-Driven Development: 0
+      Breaking Logic into Components: 0
+      Fundamental Ruby & Style: 0
+      Enumerable & Collections: 0
