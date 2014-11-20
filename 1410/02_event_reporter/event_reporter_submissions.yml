@@ -52,13 +52,16 @@ submissions:
   Lori Culberson & Michael Dao:
     repository: https://github.com/mikedao/event_reporter
     evaluation:
-      notes: ""
-      Functional Expectations: 0
-      REPL Interface: 0
-      Test-Driven Development: 0
-      Breaking Logic into Components: 0
-      Fundamental Ruby & Style: 0
-      Enumerable & Collections: 0
+      notes: "Application fulfills all base expectations.
+              REPL clear to use -- possibly would have been nice to have a message to user when input cannot be processed instead of another >.
+              Watch for where 'puts' is being called.
+              "
+      Functional Expectations: 3
+      REPL Interface: 3
+      Test-Driven Development: 3.5
+      Breaking Logic into Components: 3
+      Fundamental Ruby & Style: 3
+      Enumerable & Collections: 3
   Bhargavi Satpathy & Jeffrey Wan & Edward McCarthy:
     repository: https://github.com/bhargavisatpathy/event_manager
     evaluation:
