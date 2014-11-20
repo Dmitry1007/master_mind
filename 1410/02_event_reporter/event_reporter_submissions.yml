@@ -10,9 +10,9 @@ submissions:
       Fundamental Ruby & Style: 0
       Enumerable & Collections: 0
   Andrew Overby & Chris Luhring:
-    repository: 
+    repository: https://github.com/cluhring/event_reporter
     evaluation:
-      notes: ""
+      notes:
       Functional Expectations: 0
       REPL Interface: 0
       Test-Driven Development: 0
