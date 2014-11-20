@@ -72,13 +72,15 @@ submissions:
   Bryce Holcomb & Laura Whalin:
     repository: https://github.com/bryceholcomb/event_reporter
     evaluation:
-      notes: ""
-      Functional Expectations: 0
-      REPL Interface: 0
-      Test-Driven Development: 0
-      Breaking Logic into Components: 0
-      Fundamental Ruby & Style: 0
-      Enumerable & Collections: 0
+      notes: "All base expectations fulfilled; implemented 'and' searching (need to account for invalid user input on this feature).
+              Test coverage is sufficient -- great testing of isolated pieces; also good testing of saving a csv and using mocks.
+              Fairly well broken-down logic."
+      Functional Expectations: 3
+      REPL Interface: 3.5
+      Test-Driven Development: 3
+      Breaking Logic into Components: 3
+      Fundamental Ruby & Style: 3
+      Enumerable & Collections: 3
   Rich Shea & Scott Crawford:
     repository: https://github.com/scottcrawford03/event_reporter
     evaluation:
