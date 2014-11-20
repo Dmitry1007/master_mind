@@ -69,13 +69,15 @@ submissions:
   Bhargavi Satpathy & Jeffrey Wan & Edward McCarthy:
     repository: https://github.com/bhargavisatpathy/event_manager
     evaluation:
-      notes: ""
-      Functional Expectations: 0
-      REPL Interface: 0
-      Test-Driven Development: 0
-      Breaking Logic into Components: 0
-      Fundamental Ruby & Style: 0
-      Enumerable & Collections: 0
+      notes: "One problem loading a generated file, but all other base expectations fulfilled and two extensions implemented.
+              Break down 'Session' class further.
+              "
+      Functional Expectations: 3.5
+      REPL Interface: 3
+      Test-Driven Development: 3.5
+      Breaking Logic into Components: 3
+      Fundamental Ruby & Style: 3
+      Enumerable & Collections: 3
   Bryce Holcomb & Laura Whalin:
     repository: https://github.com/bryceholcomb/event_reporter
     evaluation:
