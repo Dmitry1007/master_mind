@@ -12,13 +12,13 @@ submissions:
   Andrew Overby & Chris Luhring:
     repository: https://github.com/cluhring/event_reporter
     evaluation:
-      notes:
-      Functional Expectations: 0
-      REPL Interface: 0
-      Test-Driven Development: 0
-      Breaking Logic into Components: 0
-      Fundamental Ruby & Style: 0
-      Enumerable & Collections: 0
+      notes: git issues, flustered, possibly discouraged
+      Functional Expectations: 1
+      REPL Interface: 1
+      Test-Driven Development: 2
+      Breaking Logic into Components: 2.5
+      Fundamental Ruby & Style: 2.5
+      Enumerable & Collections: 2.5
   Kit Pearson & Orion Osborn:
     repository: https://github.com/oorion/event_reporter
     evaluation:
@@ -33,22 +33,22 @@ submissions:
     repository: https://github.com/bmrsny/event_reporter
     evaluation:
       notes: ""
-      Functional Expectations: 0
-      REPL Interface: 0
-      Test-Driven Development: 0
-      Breaking Logic into Components: 0
-      Fundamental Ruby & Style: 0
-      Enumerable & Collections: 0
+      Functional Expectations: 4
+      REPL Interface: 4
+      Test-Driven Development: 4
+      Breaking Logic into Components: 4
+      Fundamental Ruby & Style: 3
+      Enumerable & Collections: 4
   Dustin Gault & Emily Berkeley:
     repository: https://github.com/DSynergy/Event_Reporter
     evaluation:
       notes: ""
-      Functional Expectations: 0
-      REPL Interface: 0
-      Test-Driven Development: 0
-      Breaking Logic into Components: 0
-      Fundamental Ruby & Style: 0
-      Enumerable & Collections: 0
+      Functional Expectations: 3.5
+      REPL Interface: 4
+      Test-Driven Development: 3
+      Breaking Logic into Components: 3
+      Fundamental Ruby & Style: 2.5
+      Enumerable & Collections: 4
   Lori Culberson & Michael Dao:
     repository: https://github.com/mikedao/event_reporter
     evaluation:
@@ -93,9 +93,9 @@ submissions:
     repository: https://github.com/KristaANelson/event_reporter
     evaluation:
       notes: ""
-      Functional Expectations: 0
-      REPL Interface: 0
-      Test-Driven Development: 0
-      Breaking Logic into Components: 0
-      Fundamental Ruby & Style: 0
-      Enumerable & Collections: 0
+      Functional Expectations: 3
+      REPL Interface: 4
+      Test-Driven Development: 3.5
+      Breaking Logic into Components: 3
+      Fundamental Ruby & Style: 3
+      Enumerable & Collections: 3
