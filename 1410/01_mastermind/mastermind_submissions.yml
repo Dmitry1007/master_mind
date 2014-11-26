@@ -61,58 +61,58 @@ submissions:
       Breaking Logic into Components: 3.5
   Emily Berkeley:
     repository: https://github.com/EmilyMB/mastermind/
-    notes:
+    notes:"Good implementation; repl works well with some features; needs more TDD; a few more components could be extracted."
     evaluation:
-      Fundamental Ruby & Style: 0
-      Enumerable & Collections: 0
-      Test-Driven Development: 0
-      REPL Interface: 0
-      Breaking Logic into Components: 0
+      Fundamental Ruby & Style: 3
+      Enumerable & Collections: 2
+      Test-Driven Development: 1
+      REPL Interface: 3.5
+      Breaking Logic into Components: 3
   Edward McCarthy:
-    repository:
-    notes:
+    repository: https://github.com/mcshakes/Mastermind
+    notes: "Solid implementation; repl works at basic level without any bells and whistles. Test coverage and usage is pretty good; game class has become a bit bloated and have more components extracted"
     evaluation:
-      Fundamental Ruby & Style: 0
-      Enumerable & Collections: 0
-      Test-Driven Development: 0
-      REPL Interface: 0
-      Breaking Logic into Components: 0
+      Fundamental Ruby & Style: 2.5
+      Enumerable & Collections: 3
+      Test-Driven Development: 3
+      REPL Interface: 3
+      Breaking Logic into Components: 2
   Michael Dao:
     repository: https://github.com/mikedao/mastermind
-    notes:
+    notes: "Solid implementation; code well factored with good components. Test coverage solid; next step would be exploring some more sophisticated integration testing techniques; repl easy to use and several sweet extensions."
     evaluation:
-      Fundamental Ruby & Style: 0
-      Enumerable & Collections: 0
-      Test-Driven Development: 0
-      REPL Interface: 0
-      Breaking Logic into Components: 0
+      Fundamental Ruby & Style: 3
+      Enumerable & Collections: 3.5
+      Test-Driven Development: 3
+      REPL Interface: 3.5
+      Breaking Logic into Components: 3
   Kalah Cheek:
-    repository: https://github.com/kcheek/mastermind2.git
-    notes:
+    repository:https://github.com/kcheek/mastermind2.git
+    notes: "Works good, great test coverage and integratino test usage. Still can push more on enumerables as a path to concise code. Component responsibility looks pretty good; next step might be exploring namespaces and logical grouping of related components."
     evaluation:
-      Fundamental Ruby & Style: 0
-      Enumerable & Collections: 0
-      Test-Driven Development: 0
-      REPL Interface: 0
-      Breaking Logic into Components: 0
+      Fundamental Ruby & Style: 3
+      Enumerable & Collections: 2
+      Test-Driven Development: 4
+      REPL Interface: 3
+      Breaking Logic into Components: 3
   Orion Osborn:
     repository: https://github.com/oorion/mastermind
-    notes:
+    notes: "Sweet repl, some cool extra features. Code is pretty well factored and divided. Testing needs improvement. Some opportunities for better enumerable usage."
     evaluation:
-      Fundamental Ruby & Style: 0
-      Enumerable & Collections: 0
-      Test-Driven Development: 0
-      REPL Interface: 0
-      Breaking Logic into Components: 0
+      Fundamental Ruby & Style: 3
+      Enumerable & Collections: 2.5
+      Test-Driven Development: 2
+      REPL Interface: 3.5
+      Breaking Logic into Components: 3
   Bhargavi Satpathy:
     repository: https://github.com/bhargavisatpathy/mastermind.git
-    notes:
+    notes: "solid implementation, good use of enumerables for figuring out scoring logic. has several well-encapsulated classes with responsibility for portions of the game. Would like to see more thorough and granular and low level testing"
     evaluation:
-      Fundamental Ruby & Style: 0
-      Enumerable & Collections: 0
-      Test-Driven Development: 0
-      REPL Interface: 0
-      Breaking Logic into Components: 0
+      Fundamental Ruby & Style: 3
+      Enumerable & Collections: 3
+      Test-Driven Development: 3
+      REPL Interface: 3
+      Breaking Logic into Components: 3
   Krista A Nelson:
     repository: https://github.com/KristaANelson/mastermind
     notes: |
@@ -140,12 +140,6 @@ submissions:
       Fix input where it comes in, not where used
       Don't let lower level components know where they fall in a higher level process
       Avoid duplicate logic (e.g. determining invalid guess and creating a message based on it)
-    evaluation:
-      Fundamental Ruby & Style: 0
-      Enumerable & Collections: 0
-      Test-Driven Development: 0
-      REPL Interface: 0
-      Breaking Logic into Components: 0
   Brandon Mrsny:
     repository: https://github.com/bmrsny/mastermind
     notes: |
