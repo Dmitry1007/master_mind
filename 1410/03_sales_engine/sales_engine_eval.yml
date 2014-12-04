@@ -1,6 +1,6 @@
 submissions:
   Bhargavi Satpathy & Lori Culberson:
-    repository: https://github.com/bhargavisatpathy/sales_engine
+    repository: 
     evaluation:
       notes: ""
       Functional Expectations: 
@@ -50,7 +50,7 @@ submissions:
       Enumerable & Collections:
       Code Sanitation:
   Jeffrey Wan & Krista A Nelson:
-    repository: https://github.com/KristaANelson/sales_engine.git
+    repository: 
     evaluation:
       notes: ""
       Functional Expectations: 
@@ -70,7 +70,7 @@ submissions:
       Enumerable & Collections:
       Code Sanitation:
   Rich Shea & Michael Dao:
-    repository: https://github.com/mikedao/sales_engine
+    repository: 
     evaluation:
       notes: ""
       Functional Expectations: 
@@ -80,7 +80,7 @@ submissions:
       Enumerable & Collections:
       Code Sanitation:
   Lydia Shafer & Bryce Holcomb:
-    repository: 
+    repository: https://github.com/bryceholcomb/sales_engine
     evaluation:
       notes: ""
       Functional Expectations: 
