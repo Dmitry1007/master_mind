@@ -72,13 +72,17 @@ submissions:
   Rich Shea & Michael Dao:
     repository: https://github.com/mikedao/sales_engine
     evaluation:
-      notes: ""
-      Functional Expectations: 
-      Test-Driven Development:
-      Encapsulation / Breaking Logic into Components:
-      Fundamental Ruby & Style:
-      Enumerable & Collections:
-      Code Sanitation:
+      notes: "Well-factored code.
+              Passes all tests without crashes.
+              Solid TDD and use of appropriate data.
+              Good understanding of enumerables, but possibly shorter ways to get from one collection to another.
+              Check naming of variables -- some are unclear."
+      Functional Expectations: 3
+      Test-Driven Development: 4
+      Encapsulation / Breaking Logic into Components: 3.5
+      Fundamental Ruby & Style: 3
+      Enumerable & Collections: 3
+      Code Sanitation: 4
   Lydia Shafer & Bryce Holcomb:
     repository: 
     evaluation:
