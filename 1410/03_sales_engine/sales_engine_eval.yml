@@ -1,29 +1,29 @@
 submissions:
   Bhargavi Satpathy & Lori Culberson:
-    repository: 
+    repository:
     evaluation:
       notes: ""
-      Functional Expectations: 
+      Functional Expectations:
       Test-Driven Development:
       Encapsulation / Breaking Logic into Components:
       Fundamental Ruby & Style:
       Enumerable & Collections:
       Code Sanitation:
   Alexandra Robinson & Laura Whalin & Orion Osborn:
-    repository: 
+    repository:
     evaluation:
       notes: ""
-      Functional Expectations: 
+      Functional Expectations:
       Test-Driven Development:
       Encapsulation / Breaking Logic into Components:
       Fundamental Ruby & Style:
       Enumerable & Collections:
       Code Sanitation:
   Kit Pearson & Andrew Overby:
-    repository: 
+    repository:
     evaluation:
       notes: ""
-      Functional Expectations: 
+      Functional Expectations:
       Test-Driven Development:
       Encapsulation / Breaking Logic into Components:
       Fundamental Ruby & Style:
@@ -39,13 +39,13 @@ submissions:
       Test-Driven Development: 3
       Encapsulation / Breaking Logic into Components: 3
       Fundamental Ruby & Style: 3
-      Enumerable & Collections:3
+      Enumerable & Collections: 3
       Code Sanitation: 2.5
   Nathan Owsiany & Scott Crawford:
     repository: https://github.com/ndwhtlssthr/sales_engine
     evaluation:
       notes: "Very well-factored code.
-              Implemented all base expectations and two extensions. 
+              Implemented all base expectations and two extensions.
               One hundred percent test coverage.
               Good use of enumerables.
               Used modules to encapsulate reused code.
@@ -59,7 +59,7 @@ submissions:
   Jeffrey Wan & Krista A Nelson:
     repository: https://github.com/KristaANelson/sales_engine.git
     evaluation:
-      notes: "All base expectations fulfilled. 
+      notes: "All base expectations fulfilled.
               Used modules to encapsulate code.
               Good use of appropriate enumerables."
       Functional Expectations: 3
@@ -72,14 +72,14 @@ submissions:
     repository: https://github.com/gomav/sales_engine
     evaluation:
       notes: ""
-      Functional Expectations: 
+      Functional Expectations:
       Test-Driven Development:
       Encapsulation / Breaking Logic into Components:
       Fundamental Ruby & Style:
       Enumerable & Collections:
       Code Sanitation:
   Rich Shea & Michael Dao:
-    repository: 
+    repository:
     evaluation:
       notes: "Well-factored code.
               Passes all tests without crashes.
@@ -96,14 +96,14 @@ submissions:
     repository: https://github.com/bryceholcomb/sales_engine
     evaluation:
       notes: ""
-      Functional Expectations: 
+      Functional Expectations:
       Test-Driven Development:
       Encapsulation / Breaking Logic into Components:
       Fundamental Ruby & Style:
       Enumerable & Collections:
       Code Sanitation:
-  Edward McCarthy & Dustin Gault: https://github.com/DSynergy/sales_engine/tree/dustin2.0
-    repository: 
+  Edward McCarthy & Dustin Gault:
+    repository: https://github.com/DSynergy/sales_engine/tree/dustin2.0
     evaluation:
       notes: "Some missing functionality (business intelligence), but no crashes.
               Included tests are written solidly, but missing tests for some functionality (traversing down through SE, traversing from individual objects).
