@@ -32,13 +32,15 @@ submissions:
   Brandon Mrsny & Chris Luhring:
     repository: https://github.com/bmrsny/sales_engine
     evaluation:
-      notes: ""
-      Functional Expectations: 
-      Test-Driven Development:
-      Encapsulation / Breaking Logic into Components:
-      Fundamental Ruby & Style:
-      Enumerable & Collections:
-      Code Sanitation:
+      notes: "TDD is strong, but some functionality is missing. Check naming of variables in sales engine test.
+              Well-factored code. Some repetition in terms of functionality, but clean.
+              No business intelligence implemented."
+      Functional Expectations: 2
+      Test-Driven Development: 3
+      Encapsulation / Breaking Logic into Components: 3
+      Fundamental Ruby & Style: 3
+      Enumerable & Collections:3
+      Code Sanitation: 2.5
   Nathan Owsiany & Scott Crawford:
     repository: 
     evaluation:
