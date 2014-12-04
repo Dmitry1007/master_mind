@@ -57,15 +57,17 @@ submissions:
       Enumerable & Collections: 4
       Code Sanitation: 4
   Jeffrey Wan & Krista A Nelson:
-    repository: 
+    repository: https://github.com/KristaANelson/sales_engine.git
     evaluation:
-      notes: ""
-      Functional Expectations: 
-      Test-Driven Development:
-      Encapsulation / Breaking Logic into Components:
-      Fundamental Ruby & Style:
-      Enumerable & Collections:
-      Code Sanitation:
+      notes: "All base expectations fulfilled. 
+              Used modules to encapsulate code.
+              Good use of appropriate enumerables."
+      Functional Expectations: 3
+      Test-Driven Development: 3.5
+      Encapsulation / Breaking Logic into Components: 3.5
+      Fundamental Ruby & Style: 4
+      Enumerable & Collections: 4
+      Code Sanitation: 4
   Juan Manuel Navarro & Emily Berkeley:
     repository: https://github.com/gomav/sales_engine
     evaluation:
