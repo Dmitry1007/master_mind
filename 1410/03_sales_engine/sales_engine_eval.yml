@@ -105,10 +105,15 @@ submissions:
   Edward McCarthy & Dustin Gault: https://github.com/DSynergy/sales_engine/tree/dustin2.0
     repository: 
     evaluation:
-      notes: ""
-      Functional Expectations: 
-      Test-Driven Development:
-      Encapsulation / Breaking Logic into Components:
-      Fundamental Ruby & Style:
-      Enumerable & Collections:
-      Code Sanitation:
+      notes: "Some missing functionality (business intelligence), but no crashes.
+              Included tests are written solidly, but missing tests for some functionality (traversing down through SE, traversing from individual objects).
+              Functionality is encapsulated well. Broke out reused repository functionality into generic class. Did not break SRP for code that was written, but not all functionality was implemented.
+              Ruby style looks good.
+              Used appropriate enumerables for what needed to be accomplished.
+              "
+      Functional Expectations: 2
+      Test-Driven Development: 2.5
+      Encapsulation / Breaking Logic into Components: 3
+      Fundamental Ruby & Style: 3
+      Enumerable & Collections: 3
+      Code Sanitation: 4
