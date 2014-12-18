@@ -1,15 +1,10 @@
 require_relative 'provisioner_do'
 
 students = [
-    "Glen Egbert",
-    "Ian Andersen",
-    "Kavita Sachdeva",
-    "Jim Sutton",
-    "Aaron Paul Wortham",
-    "Luke Aiken",
-    "Sara Simon",
-    "Rolando Navarrete",
-    "Jessica Goulding"
+    "journaling",
+    "warmitup",
+    "mentorship",
+    "jobbasket"
   ]
 
 pro = Provisioner::DO.new
