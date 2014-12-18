@@ -1,0 +1,45 @@
+submissions:
+  Rich Shea:
+    repository:
+  Laura Whalin:
+    repository:
+  Jeffrey Wan:
+    repository:
+  Bryce Holcomb:
+    repository:
+  Lori Culberson:
+    repository:
+  Nathan Owsiany:
+    repository:
+  Emily Berkeley:
+    repository:
+  Edward McCarthy:
+    repository:
+  Michael Dao:
+    repository:
+  Kalah Cheek:
+    repository:
+  Orion Osborn:
+    repository:
+  Bhargavi Satpathy:
+    repository:
+  Krista A Nelson:
+    repository:
+  Brandon Mrsny:
+    repository:
+  Scott Crawford:
+    repository:
+  Kit Pearson:
+    repository:
+  Chris Luhring:
+    repository:
+  Andrew Overby:
+    repository:
+  Juan Manuel Navarro:
+    repository:
+  Dustin Gault:
+    repository:
+  Lydia Shafer:
+    repository:
+  Alexandra Robinson:
+    repository:
