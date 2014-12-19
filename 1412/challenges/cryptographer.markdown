@@ -20,7 +20,7 @@
 * Kyra Weber:
 * Lori Culberson:
 * Markus Olsen:
-* Miriam Moser:  
+* Miriam Moser: https://gist.github.com/mirjoy/7a18515b14ada940f626  
 * Paul Grever:
 * Stanley Siudzinski:
 * Teresa Finn:
