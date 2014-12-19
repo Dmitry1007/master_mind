@@ -15,7 +15,7 @@
 * Fred Block:
 * Jack Yeh:
 * Jeffrey Gu:
-* Juan Manuel Navarro:
+* Juan Manuel Navarro: https://github.com/gomav/ROT-13_Encrypter_Decrypter_Assignment
 * Kyle Henson:
 * Kyra Weber:
 * Lori Culberson:
