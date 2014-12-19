@@ -7,7 +7,7 @@
 ### Submissions
 
 * Andrew Overby:
-* Austin Wood:
+* Austin Wood: https://gist.github.com/indiesquidge/efa92118aac1f99af611
 * Charles Valentino Espinoza:
 * DJ Greenfield:
 * David E Maurer:
