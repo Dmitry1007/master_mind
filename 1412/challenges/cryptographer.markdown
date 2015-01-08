@@ -9,7 +9,7 @@
 * Andrew Overby:
 * Austin Wood:
 * Charles Valentino Espinoza:
-* DJ Greenfield:
+* DJ Greenfield: https://github.com/AllPurposeName/encryption2
 * David E Maurer:
 * Edward McCarthy:
 * Fred Block:
