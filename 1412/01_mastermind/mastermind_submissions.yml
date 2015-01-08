@@ -64,13 +64,20 @@ submissions:
       Breaking Logic into Components: 0
   Jeffrey Gu:
     repository: https://github.com/jgu2160/battleship
-    notes: '(filled in by instructor)'
+    notes: 'Make sure you are running all the tests frequently (RAKEFILE)
+            Testing approach/coverage needs more work.
+            Code is a bit tangled, but works.
+            Focus on breaking logic out into smaller components.
+            Need to look for opportunities to use enumeration/repetition,
+            rather than repeating similar code.
+            Game mechanics are there, flow needs a little work to be
+            totally playable.'
     evaluation:
-      Fundamental Ruby & Style: 0
-      Enumerable & Collections: 0
-      Test-Driven Development: 0
-      REPL Interface: 0
-      Breaking Logic into Components: 0
+      Fundamental Ruby & Style: 2
+      Enumerable & Collections: 2
+      Test-Driven Development: 2
+      REPL Interface: 2
+      Breaking Logic into Components: 3
   Juan Manuel Navarro:
     repository: https://github.com/gomav/MasterMind.git
     notes: '(filled in by instructor)'
