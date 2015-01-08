@@ -22,7 +22,7 @@
 * Markus Olsen:
 * Miriam Moser:  
 * Paul Grever:
-* Stanley Siudzinski:
+* Stanley Siudzinski: https://github.com/stanleyjsdz/encryptor
 * Teresa Finn:
 * Thomas Randell:
 * Trey Tomlinson: https://gist.github.com/treyyyy/2d4b2048dcee66f5499a
