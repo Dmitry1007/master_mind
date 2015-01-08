@@ -18,7 +18,7 @@
 * Juan Manuel Navarro:
 * Kyle Henson:
 * Kyra Weber:
-* Lori Culberson:
+* Lori Culberson:https://gist.github.com/loriculberson/56351f877496d7752d6d
 * Markus Olsen:
 * Miriam Moser:  
 * Paul Grever:
