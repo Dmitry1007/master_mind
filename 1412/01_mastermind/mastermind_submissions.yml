@@ -80,13 +80,16 @@ submissions:
       Breaking Logic into Components: 3
   Juan Manuel Navarro:
     repository: https://github.com/gomav/MasterMind.git
-    notes: '(filled in by instructor)'
+    notes: 'There are about 14 tests, should be about 60.
+            Break code into smaller piles.
+            Look for opportunities to use enumerations.
+            Cannot start a game.'
     evaluation:
-      Fundamental Ruby & Style: 0
-      Enumerable & Collections: 0
-      Test-Driven Development: 0
-      REPL Interface: 0
-      Breaking Logic into Components: 0
+      Fundamental Ruby & Style: 3
+      Enumerable & Collections: 3
+      Test-Driven Development: 2
+      REPL Interface: 1
+      Breaking Logic into Components: 3
   Kyle Henson:
     repository: https://github.com/kylehenson/mastermind
     notes: '(filled in by instructor)'
