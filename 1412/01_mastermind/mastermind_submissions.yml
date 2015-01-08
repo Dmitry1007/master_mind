@@ -1,6 +1,6 @@
 submissions:
   Andrew Overby:
-    repository: https://github.com/yourusername/yourproject
+    repository: https://github.com/Overby/mastermind_redux/commits?author=Overby
     notes: '(filled in by instructor)'
     evaluation:
       Fundamental Ruby & Style: 0
