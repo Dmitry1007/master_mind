@@ -24,40 +24,40 @@ submissions:
       Breaking Logic into Components: 2
   DJ Greenfield:
     repository: https://github.com/AllPurposeName/mastermind
-    notes: '(filled in by instructor)'
+    notes: 'Good testing out of the gate which seems to have fallen off as complexity grew; code structure just needs more method extraction, class abstraction, and reduction of instance variable manipulation.'
     evaluation:
-      Fundamental Ruby & Style: 0
-      Enumerable & Collections: 0
-      Test-Driven Development: 0
-      REPL Interface: 0
-      Breaking Logic into Components: 0
+      Fundamental Ruby & Style: 2
+      Enumerable & Collections: 2.5
+      Test-Driven Development: 2.5
+      REPL Interface: 2.5
+      Breaking Logic into Components: 2
   David E Maurer:
     repository: git@github.com:abstractrandom/mastermind.git
-    notes: '(filled in by instructor)'
+    notes: 'still struggling with ruby fundamentals - syntax, classes, structure and mental modeling; need to get more practice with fundamental language components'
     evaluation:
-      Fundamental Ruby & Style: 0
-      Enumerable & Collections: 0
-      Test-Driven Development: 0
-      REPL Interface: 0
-      Breaking Logic into Components: 0
+      Fundamental Ruby & Style: 1
+      Enumerable & Collections: 1
+      Test-Driven Development: 1
+      REPL Interface: 1
+      Breaking Logic into Components: 1
   Edward McCarthy:
     repository: https://github.com/mcshakes/Mastermind-Take-2
     notes: '(filled in by instructor)'
     evaluation:
-      Fundamental Ruby & Style: 0
-      Enumerable & Collections: 0
-      Test-Driven Development: 0
-      REPL Interface: 0
-      Breaking Logic into Components: 0
+      Fundamental Ruby & Style: 2.3
+      Enumerable & Collections: 2
+      Test-Driven Development: 2.5
+      REPL Interface: 2
+      Breaking Logic into Components: 2.5
   Fred Block:
     repository: https://github.com/blocknroll/mastermind
-    notes: '(filled in by instructor)'
+    notes: 'Need to write more tests; lots of room for improvement with enumerable usage; need to focus on reducing shared and repeated state within the program.'
     evaluation:
-      Fundamental Ruby & Style: 0
-      Enumerable & Collections: 0
-      Test-Driven Development: 0
-      REPL Interface: 0
-      Breaking Logic into Components: 0
+      Fundamental Ruby & Style: 3
+      Enumerable & Collections: 2
+      Test-Driven Development: 1
+      REPL Interface: 2
+      Breaking Logic into Components: 3
   Jack Yeh:
     repository: https://github.com/yourusername/yourproject
     notes: '(filled in by instructor)'
@@ -99,38 +99,38 @@ submissions:
     repository: https://github.com/kylehenson/mastermind
     notes: '(filled in by instructor)'
     evaluation:
-      Fundamental Ruby & Style: 0
-      Enumerable & Collections: 0
-      Test-Driven Development: 0
-      REPL Interface: 0
-      Breaking Logic into Components: 0
+      Fundamental Ruby & Style: 2.4
+      Enumerable & Collections: 2
+      Test-Driven Development: 1
+      REPL Interface: 3
+      Breaking Logic into Components: 2.5
   Kyra Weber:
     repository: https://github.com/kyraweber/mastermind
-    notes: '(filled in by instructor)'
+    notes: 'very nice; good test coverage; things to look at - turn ordered arrays into semantically named hashes; turn hashes into new classes'
     evaluation:
-      Fundamental Ruby & Style: 0
-      Enumerable & Collections: 0
-      Test-Driven Development: 0
-      REPL Interface: 0
-      Breaking Logic into Components: 0
+      Fundamental Ruby & Style: 3
+      Enumerable & Collections: 4
+      Test-Driven Development: 3.5
+      REPL Interface: 3
+      Breaking Logic into Components: 3
   Lori Culberson:
     repository: https://github.com/loriculberson/mastermind_levels
-    notes: '(filled in by instructor)'
+    notes: Better names will make a big difference for you.
     evaluation:
-      Fundamental Ruby & Style: 0
-      Enumerable & Collections: 0
-      Test-Driven Development: 0
-      REPL Interface: 0
-      Breaking Logic into Components: 0
+      Fundamental Ruby & Style: 1
+      Enumerable & Collections: 2.5
+      Test-Driven Development: 1
+      REPL Interface: 1
+      Breaking Logic into Components: 1.5
   Markus Olsen:
     repository: https://github.com/neslom/mastermind
-    notes: '(filled in by instructor)'
+    notes: ''
     evaluation:
-      Fundamental Ruby & Style: 0
-      Enumerable & Collections: 0
-      Test-Driven Development: 0
-      REPL Interface: 0
-      Breaking Logic into Components: 0
+      Fundamental Ruby & Style: 2.5
+      Enumerable & Collections: 3
+      Test-Driven Development: 2
+      REPL Interface: 3.5
+      Breaking Logic into Components: 2.5
   Miriam Moser:
     repository: https://github.com/mirjoy/mastermind
     notes: '(filled in by instructor)'
@@ -180,11 +180,11 @@ submissions:
     repository: https://github.com/xvalentino/mastermind
     notes: '(filled in by instructor)'
     evaluation:
-      Fundamental Ruby & Style: 0
-      Enumerable & Collections: 0
-      Test-Driven Development: 0
-      REPL Interface: 0
-      Breaking Logic into Components: 0
+      Fundamental Ruby & Style: 2.3
+      Enumerable & Collections: 2
+      Test-Driven Development: 1
+      REPL Interface: 3
+      Breaking Logic into Components: 2.2
   Trey Tomlinson:
     repository: https://github.com/treyyyy/mastermind
     notes: '(filled in by instructor)'
