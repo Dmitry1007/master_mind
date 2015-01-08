@@ -20,7 +20,7 @@
 * Kyra Weber:
 * Lori Culberson:https://gist.github.com/loriculberson/56351f877496d7752d6d
 * Markus Olsen:
-* Miriam Moser:  
+* Miriam Moser: https://gist.github.com/mirjoy/7a18515b14ada940f626  
 * Paul Grever:
 * Stanley Siudzinski: https://github.com/stanleyjsdz/encryptor
 * Teresa Finn:
