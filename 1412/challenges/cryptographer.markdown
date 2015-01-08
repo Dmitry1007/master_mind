@@ -11,7 +11,7 @@
 * Charles Valentino Espinoza:
 * DJ Greenfield: https://github.com/AllPurposeName/encryption2
 * David E Maurer:
-* Edward McCarthy:
+* Edward McCarthy: https://gist.github.com/mcshakes/ef86e532a76a48269a30
 * Fred Block:
 * Jack Yeh:
 * Jeffrey Gu:
