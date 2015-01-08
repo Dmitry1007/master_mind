@@ -137,13 +137,19 @@ submissions:
       Breaking Logic into Components: 0
   Paul Grever:
     repository: https://github.com/paulgrever/mastermind/
-    notes: '(filled in by instructor)'
+    notes: 'Need more tests and to have them go deeper into code.
+            Work on breaking out components.
+            If building a game/REPL, use puts/gets in only one spot.
+            Access your help (mentors, staff) earlier.
+            Enums are solid but look for more opportunities to use them.
+            Spend time refactoring.
+            Plays well.'
     evaluation:
-      Fundamental Ruby & Style: 0
-      Enumerable & Collections: 0
-      Test-Driven Development: 0
-      REPL Interface: 0
-      Breaking Logic into Components: 0
+      Fundamental Ruby & Style: 2
+      Enumerable & Collections: 3
+      Test-Driven Development: 2
+      REPL Interface: 3
+      Breaking Logic into Components: 2
   Stanley Siudzinski:
     repository: https://github.com/SSgoldwater/mastermind
     notes: 'Pretty strong testing.
