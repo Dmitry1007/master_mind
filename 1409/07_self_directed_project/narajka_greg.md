@@ -1,12 +1,12 @@
-Better Reads
+### Better Reads
 
 ### Pitch
 
-Better Reads generates book ratings and recommendations based on the interests of people with whom the user is more likely to align. 
+Better Reads generates book ratings and recommendations based on the interests of people with whom the user is more likely to align.
 
 ### Problem
 
-Aggregate ratings from large numbers of people are useful when shopping for a consumer product or deciding on a restaurant for dinner, but taste in books is idiosyncratic. The judgment of the right person is often more valuable than the thousand practically anonymous reviews you normally find on GoodReads. 
+Aggregate ratings from large numbers of people are useful when shopping for a consumer product or deciding on a restaurant for dinner, but taste in books is idiosyncratic. The judgment of the right person is often more valuable than the thousand practically anonymous reviews you normally find on GoodReads.
 
 ### Solution
 
@@ -18,5 +18,5 @@ People with fairly settled taste in books.
 
 ### Integrations
 
-GoodReads OAuth if possible, otherwise Facebook OAuth (which Goodreads already uses)
-GoodReads API
+* GoodReads OAuth if possible, otherwise Facebook OAuth (which Goodreads already uses)
+* GoodReads API
