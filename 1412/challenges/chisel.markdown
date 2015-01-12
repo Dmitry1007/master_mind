@@ -1,4 +1,4 @@
-## Cryptographer
+## Chisel
 
 * Challenge: https://github.com/turingschool/challenges/blob/master/chisel.markdown
 * Due: 1/12/14
