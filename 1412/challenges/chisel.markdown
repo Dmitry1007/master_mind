@@ -8,7 +8,7 @@
 * Andrew Overby:
 * Austin Wood: https://github.com/indiesquidge/chisel-redo
 * Charles Valentino Espinoza: https://github.com/xvalentino/chisel
-* DJ Greenfield:
+* DJ Greenfield: https://github.com/AllPurposeName/Chisel
 * David E Maurer:
 * Edward McCarthy: https://github.com/mcshakes/markdown_parser
 * Fred Block:
