@@ -13,7 +13,7 @@
 * Edward McCarthy:
 * Fred Block:
 * Jack Yeh:
-* Jeffrey Gu:
+* Jeffrey Gu: https://github.com/indiesquidge/chisel-redo
 * Juan Manuel Navarro:
 * Kyle Henson:
 * Kyra Weber:
