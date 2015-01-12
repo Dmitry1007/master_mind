@@ -9,7 +9,7 @@
 * Austin Wood: https://github.com/indiesquidge/chisel-redo
 * Charles Valentino Espinoza: https://github.com/xvalentino/chisel
 * DJ Greenfield: https://github.com/AllPurposeName/Chisel
-* David E Maurer:
+* David E Maurer:https://github.com/abstractrandom/challenges
 * Edward McCarthy: https://github.com/mcshakes/markdown_parser
 * Fred Block: https://github.com/blocknroll/chisel_02
 * Jack Yeh:
