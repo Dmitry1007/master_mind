@@ -23,4 +23,4 @@
 * Paul Grever: https://github.com/paulgrever/chisel
 * Stanley Siudzinski:
 * Teresa Finn: https://github.com/teresafinn/chisel
-* Trey Tomlinson:
+* Trey Tomlinson: https://github.com/treyyyy/chisel.markdown
