@@ -22,5 +22,5 @@
 * Miriam Moser: https://github.com/mirjoy/chisel_parser_number_two
 * Paul Grever:
 * Stanley Siudzinski:
-* Teresa Finn:
+* Teresa Finn: https://github.com/teresafinn/chisel
 * Trey Tomlinson:
