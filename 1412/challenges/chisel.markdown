@@ -10,7 +10,7 @@
 * Charles Valentino Espinoza: https://github.com/xvalentino/chisel
 * DJ Greenfield:
 * David E Maurer:
-* Edward McCarthy:
+* Edward McCarthy: https://github.com/mcshakes/markdown_parser
 * Fred Block:
 * Jack Yeh:
 * Jeffrey Gu: https://github.com/indiesquidge/chisel-redo
