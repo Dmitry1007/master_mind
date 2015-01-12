@@ -25,5 +25,5 @@ Movie buffs, people who like lists.
 ### Integrations
 
 * Twitter OAuth
-* OMDB.com API
+* www.omdbapi.com OMDB API
 * Twilio to receive text messages
