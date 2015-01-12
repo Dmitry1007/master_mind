@@ -18,7 +18,7 @@
 * Kyle Henson:
 * Kyra Weber:
 * Lori Culberson:https://github.com/loriculberson/chisel
-* Markus Olsen:
+* Markus Olsen: https://github.com/neslom/chisel
 * Miriam Moser: https://github.com/mirjoy/chisel_parser_number_two
 * Paul Grever:
 * Stanley Siudzinski:
