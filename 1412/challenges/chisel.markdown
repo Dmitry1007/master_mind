@@ -6,7 +6,7 @@
 ### Submissions
 
 * Andrew Overby:
-* Austin Wood:
+* Austin Wood: https://github.com/indiesquidge/chisel-redo
 * Charles Valentino Espinoza: https://github.com/xvalentino/chisel
 * DJ Greenfield:
 * David E Maurer:
