@@ -10,7 +10,7 @@ Aggregate ratings from large numbers of people are useful when shopping for a co
 
 ### Solution
 
-This app will focus on matching the user with other like-minded users, rather than recommending individual books. I'd also very much like to generate alternate ratings based on the opinions of followed users, but that depends on the limitations of the API.
+This app will focus on matching the user with other like-minded users and suggest books based the latter's interests. I'd also very much like to generate alternate ratings, but that depends on the limitations of the API (current one request per second limit).
 
 ### Target Audience
 
