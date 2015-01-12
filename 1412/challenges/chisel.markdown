@@ -11,7 +11,7 @@
 * DJ Greenfield: https://github.com/AllPurposeName/Chisel
 * David E Maurer:
 * Edward McCarthy: https://github.com/mcshakes/markdown_parser
-* Fred Block:
+* Fred Block: https://github.com/blocknroll/chisel_02
 * Jack Yeh:
 * Jeffrey Gu: https://github.com/indiesquidge/chisel-redo
 * Juan Manuel Navarro: https://github.com/gomav/Chisel_Parser.git
