@@ -1,0 +1,34 @@
+#### Turing: Self Guided Project Proposals
+##### Sam Kuhlmann 1/6/2015
+
+## Farm-to-tableorama
+
+### Pitch
+A resource for finding fresh and local food sources in your area.
+
+### Problem
+I need a single referece point for finding locally sourced food in my area. Additonally, I grow a lot of food and would love a way to trade and share with people in my community.
+
+### Solution
+This solution will be a directory of fresh food available in your area, from farmer's markets to backyard gardeners selling extra produce. This app will allow me to connect with other gardeners and fresh, local food lovers to share/sell/trade from our gardens.
+
+Features
++ Fresh food directory (maybe with a map)
++ User profile and ability to list your local food product
++ Local listings of food product made available by other users
+
+### Target Audience
+Anyone that enjoys fresh, local food. People that would like to sell their homemade or homegrown food products.
+
+### Integrations
+
+* What OAuth provider makes sense for this audience?
+Twitter
+
+* What API will you use?
++ Farmer's market directory
+* http://catalog.data.gov/dataset/farmers-markets-geographic-data
+
+* Any other integrations?
+Twitter - Allow user to post thier listings on twitter
+Mandrill for email
