@@ -20,7 +20,7 @@
 * Lori Culberson:https://github.com/loriculberson/chisel
 * Markus Olsen: https://github.com/neslom/chisel
 * Miriam Moser: https://github.com/mirjoy/chisel_parser_number_two
-* Paul Grever:
+* Paul Grever: https://github.com/paulgrever/chisel
 * Stanley Siudzinski:
 * Teresa Finn: https://github.com/teresafinn/chisel
 * Trey Tomlinson:
