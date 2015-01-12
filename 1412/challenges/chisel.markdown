@@ -22,5 +22,5 @@
 * Miriam Moser:
 * Paul Grever:
 * Stanley Siudzinski:
-* Teresa Finn:
+* Teresa Finn: https://github.com/teresafinn/chisel
 * Trey Tomlinson:
