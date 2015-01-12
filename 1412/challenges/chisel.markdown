@@ -15,7 +15,7 @@
 * Jack Yeh:
 * Jeffrey Gu: https://github.com/indiesquidge/chisel-redo
 * Juan Manuel Navarro: https://github.com/gomav/Chisel_Parser.git
-* Kyle Henson:
+* Kyle Henson: https://github.com/kylehenson/chisel.git
 * Kyra Weber:https://github.com/kyraweber/new_chisel
 * Lori Culberson:https://github.com/loriculberson/chisel
 * Markus Olsen: https://github.com/neslom/chisel
