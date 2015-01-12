@@ -17,7 +17,7 @@
 * Juan Manuel Navarro:
 * Kyle Henson:
 * Kyra Weber:
-* Lori Culberson:
+* Lori Culberson:https://github.com/loriculberson/chisel
 * Markus Olsen:
 * Miriam Moser: https://github.com/mirjoy/chisel_parser_number_two
 * Paul Grever:
