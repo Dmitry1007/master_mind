@@ -14,7 +14,7 @@
 * Fred Block:
 * Jack Yeh:
 * Jeffrey Gu: https://github.com/indiesquidge/chisel-redo
-* Juan Manuel Navarro:
+* Juan Manuel Navarro: https://github.com/gomav/Chisel_Parser.git
 * Kyle Henson:
 * Kyra Weber:
 * Lori Culberson:https://github.com/loriculberson/chisel
