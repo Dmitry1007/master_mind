@@ -7,7 +7,7 @@
 
 * Andrew Overby:
 * Austin Wood:
-* Charles Valentino Espinoza:
+* Charles Valentino Espinoza: https://github.com/xvalentino/chisel
 * DJ Greenfield:
 * David E Maurer:
 * Edward McCarthy:
