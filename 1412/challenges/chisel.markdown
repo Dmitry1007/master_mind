@@ -19,7 +19,7 @@
 * Kyra Weber:
 * Lori Culberson:
 * Markus Olsen:
-* Miriam Moser:
+* Miriam Moser: https://github.com/mirjoy/chisel_parser_number_two
 * Paul Grever:
 * Stanley Siudzinski:
 * Teresa Finn:
