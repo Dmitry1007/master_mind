@@ -1,10 +1,8 @@
-### [Project Title : 1]
-
-Snow Maps
+### SnowMaps
 
 ### Pitch
 
-Colorado has a great selection of skiing and snow is not hard to come by.  But, unfortunately, everytime I go skiing I must search multiple websites to find where the best snow is.  If only there were a way to get the snow report for every moutain near me with one click.  Snow Maps will bring the resort information you want to one page.
+Colorado has a great selection of skiing and snow is not hard to come by. But, unfortunately, everytime I go skiing I must search multiple websites to find where the best snow is. If only there were a way to get the snow report for every moutain near me with one click. Snow Maps will bring the resort information you want to one page.
 
 ### Problem
 
@@ -21,7 +19,5 @@ A skier/rider that owns a season pass or a house close to multiple mountains and
 ### Integrations
 
 * What OAuth provider makes sense for this audience?
-* What API will you use?
-    -weather.com api
-* Any other integrations?
-    -nokogiri to parse html
+* Weather.com api
+* Nokogiri to parse html
