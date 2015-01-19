@@ -21,8 +21,8 @@ submissions:
     repository: https://github.com/...
     setup_notes: ""
   Michael Dao:
-    repository: https://github.com/...
-    setup_notes: ""
+    repository: https://github.com/mikedao/new_idea_box
+    setup_notes: It works. Mostly. Had some problems with authorization and stubbing tests.
   Orion Osborn:
     repository: https://github.com/...
     setup_notes: ""
