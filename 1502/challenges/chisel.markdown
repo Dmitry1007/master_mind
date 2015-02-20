@@ -1,7 +1,7 @@
 ## Submissions
 
 * Andrew Carmer: (replace with your repo url here)
-* Chelsea Worrel: (replace with your repo url here)
+* Chelsea Worrel: (https://github.com/chelseaworrel/Chisel.git)
 * David Daniel: (replace with your repo url here)
 * Dmitry Vizersky: (replace with your repo url here)
 * Eric Dowty: (replace with your repo url here)
