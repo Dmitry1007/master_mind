@@ -4,7 +4,7 @@
 * Chelsea Worrel: (https://github.com/chelseaworrel/Chisel.git)
 * David Daniel: (replace with your repo url here)
 * Dmitry Vizersky: (replace with your repo url here)
-* Eric Dowty: (replace with your repo url here)
+* Eric Dowty: (https://github.com/end3rs-army/chisel_redux)
 * Eugene Khanutin: (replace with your repo url here)
 * Jack Yeh: (replace with your repo url here)
 * Jamie Kawahara: https://github.com/androidgrl/week3.git
