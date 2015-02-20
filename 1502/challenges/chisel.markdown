@@ -12,7 +12,7 @@
 * Kristina Brown: (https://github.com/kristinabrown/chisel)
 * Kyle Henson: (replace with your repo url here)
 * Michael Merrill: (replace with your repo url here)
-* Michelle Golle: (replace with your repo url here)
+* Michelle Golle: (https://github.com/MichelleGolle/Chisel)
 * Mihir Parikh: (replace with your repo url here)
 * Minnie Lee: (replace with your repo url here)
 * Patrick Medaugh: (replace with your repo url here)
