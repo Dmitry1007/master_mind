@@ -7,7 +7,7 @@
 * Eric Dowty: (replace with your repo url here)
 * Eugene Khanutin: (replace with your repo url here)
 * Jack Yeh: (replace with your repo url here)
-* Jamie Kawahara: (replace with your repo url here)
+* Jamie Kawahara: https://github.com/androidgrl/week3.git
 * Kenny Chen: (https://github.com/boomkenster/Chisel)
 * Kristina Brown: (https://github.com/kristinabrown/chisel)
 * Kyle Henson: (replace with your repo url here)
