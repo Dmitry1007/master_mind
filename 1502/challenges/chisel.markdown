@@ -16,7 +16,7 @@
 * Mihir Parikh: (replace with your repo url here)
 * Minnie Lee: (replace with your repo url here)
 * Patrick Medaugh: (replace with your repo url here)
-* Rob Cornell: (replace with your repo url here)
+* Rob Cornell: (https://github.com/kurohyou108/chisel/blob/master/README.md)
 * Tess Griffin: (https://github.com/tessgriffin/chisel)
 * Thomas Leskin: (replace with your repo url here)
 * Tony DiNitto: (replace with your repo url here)
