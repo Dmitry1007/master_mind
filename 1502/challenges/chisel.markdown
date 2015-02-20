@@ -9,7 +9,7 @@
 * Jack Yeh: (replace with your repo url here)
 * Jamie Kawahara: (replace with your repo url here)
 * Kenny Chen: (https://github.com/boomkenster/Chisel)
-* Kristina Brown: (replace with your repo url here)
+* Kristina Brown: (https://github.com/kristinabrown/chisel)
 * Kyle Henson: (replace with your repo url here)
 * Michael Merrill: (replace with your repo url here)
 * Michelle Golle: (replace with your repo url here)
