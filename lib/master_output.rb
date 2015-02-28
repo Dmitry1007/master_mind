@@ -32,8 +32,8 @@ class MasterOutput
     "Guess again!"
   end
 
-  def feedback(secret_pins, input, correct_colors, correct_pin_places, guesses)
-    puts "Solution: #{secret_pins}. You guessed #{input}. You have #{correct_colors} of the correct elements with #{correct_pin_places} in the correct positions.\nYou've taken #{guesses} guess(es)."
+  def feedback(input, correct_colors, check_correct_positions, guesses)
+    puts "You guessed #{input}. You have #{correct_colors} of the correct elements with #{check_correct_positions} in the correct positions.\nYou've taken #{guesses} guess(es)."
   end
 
   def game_instructions
@@ -42,8 +42,7 @@ class MasterOutput
   end
 
   def congrats(input, guesses, final_time, final_time2)
-    "Congratulations you win! You guessed the sequence #{input} with #{guesses} guesses in #{final_time} minutes, #{final_time2} seconds.
-    \nDo you want to (p)lay again or (q)uit?"
+    "Congratulations you win! You guessed the sequence #{input} with #{guesses} guesses in #{final_time} minutes, #{final_time2} seconds."
   end
 
 end

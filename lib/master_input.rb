@@ -37,25 +37,29 @@ class Game
  	input = "" 
 
  	while input != 'q'
- 		puts "SECRET CODE =#{mastermind.secret_code}"
+ 		puts "SECRET CODE = #{mastermind.secret_code.upcase}"
  		input = gets.chomp.downcase
 
- 		if mastermind.winner?(input)
- 			puts msg.congrats(input, 2, 4, 4)
+ 		if mastermind.winner?(input) && mastermind.guesses == 0 
+ 			mastermind.guesses += 1
+ 			puts msg.congrats(input, mastermind.guesses, 4, 4)
+ 			break
+ 		elsif mastermind.winner?(input)
+ 			puts msg.congrats(input, mastermind.guesses, 4, 4)
+ 			break
  		elsif mastermind.guess_length_is_valid?(input) == false
  			puts msg.invalid_guess_length
  		elsif mastermind.guess_colors_are_valid?(input) == false
  			puts msg.invalid_colors 
- 				
- 		else
- 			puts "KEEP TRYING"
-
+ 		else mastermind.everything_valid?(input)
+ 			mastermind.guesses += 1 
+ 			puts msg.feedback(input, mastermind.check_correct_colors(input), mastermind.check_correct_positions(input), mastermind.guesses)  			
  		end
-
  	end 
  	
   end
 end
+
 
 new_game = Game.new
 new_game.menu

@@ -86,7 +86,7 @@ class Mastermind
 
   end
 
-  def guess(input)
+  def (input)
 
   end
 
