@@ -9,8 +9,8 @@ class Mastermind
   end
 
   def start
-    start_time = Time.new
-    @guesses = 0 
+    @start_time = Time.new
+    @guesses = 0
     @secret_code = @available_colors.sample(4).join
   end
 
@@ -27,7 +27,6 @@ class Mastermind
   end
 
   def guess_colors_are_valid?(input) 
-    # require 'pry';binding.pry
     input.chars.all? { |l| available_colors.include?(l) }
   end
 
@@ -41,72 +40,19 @@ class Mastermind
 
     results = input.zip(secret_pins).map { |x,y| x == y }
     total = results.count { |value| value == true }
-
-    # @count = 0
-    # input.each_with_index do |color, index| 
-    #   if color == secret_pins[index] 
-    #   @count += 1
-    #   end 
-    # end
-    # @count 
-
-    # @count = 0
-    # @count += 1 if input[0] == secret_pins[0]
-    # @count += 1 if input[1] == secret_pins[1] 
-    # @count += 1 if input[2] == secret_pins[2] 
-    # @count += 1 if input[3] == secret_pins[3]
-    # @count
   end
-
+ 
   def check_correct_colors(input, secret_pins=@secret_code)
-    
     user_guess = input.chars.uniq
     comp_secret = secret_pins.chars.uniq 
 
     total = user_guess.map { |x| comp_secret.include?(x) }
     total.count(true) 
-
-
-    # zip_it = user_guess.zip(comp_secret)
-
-    # zip_it.inject(0) do |count, array|
-    #   if ! array.include?(nil)
-    #     count += 1
-    #   end
-    #   count
-    # end
-
-    # Not Working
-    # difference = input.select { |color| secret_pins.include?(color) }
-    # difference.uniq.size
-
-    # correct_colors = 0
-    # @secret_pins.chars.uniq.each do |color|
-    #   if input.chars.uniq.include?(color)
-    #     correct_colors += 1
-    #   end
-    # end
-    # return correct_colors
-
   end
 
-
-  def game_time
-    ((Time.now - Time.at(start_time)).to_i).divmod(60)
+  def elapsed_time
+    (Time.now - @start_time).to_i 
   end
+
 end
 
-
-
-
-
-
-
-
-if __FILE__ == $0
-master = Mastermind.new 
-# master.guesses=16
-# puts master.guesses 
-
-puts master.start
-end

@@ -36,28 +36,36 @@ attr_reader :mastermind
     refute mastermind.guess_length_is_valid?("ygrby") 
   end
 
-  def test_it_knows_how_many_positions_are_right
-    secret_pins = "rgyb"
-    input = "rgbb"
-    assert_equal 3, mastermind.check_correct_positions(input, secret_pins)
-  end
-
   def test_guess_colors_are_valid
     assert mastermind.guess_colors_are_valid?("rbgy")
+    assert mastermind.guess_colors_are_valid?("rggg")
+    assert mastermind.guess_colors_are_valid?("bbbb")
   end
 
   def test_guess_colors_are_invalid
-    assert_equal false, mastermind.guess_colors_are_valid?("rbgx")
+    assert_equal false, mastermind.guess_colors_are_valid?("rxzy")
+    assert_equal false, mastermind.guess_colors_are_valid?("tuvx")
+    assert_equal false, mastermind.guess_colors_are_valid?("rbcy")   
   end
 
   def test_a_valid_input_evaluates_to_valid
+    assert_equal true, mastermind.everything_valid?("rrrr")
     assert_equal true, mastermind.everything_valid?("rrby")
   end
 
   def test_an_invalid_input_evaluates_to_invalid
     assert_equal false, mastermind.everything_valid?("@4y7*^")
     assert_equal false, mastermind.everything_valid?("rr")
-    assert_equal false, mastermind.everything_valid?("hjyl")
+    assert_equal false, mastermind.everything_valid?("hjyl***0")
+    assert_equal false, mastermind.everything_valid?("")
+  end
+
+  def test_it_knows_how_many_positions_are_right
+    assert_equal 0, mastermind.check_correct_positions("bgry","gryb")
+    assert_equal 1, mastermind.check_correct_positions("yyry","bbrb")
+    assert_equal 2, mastermind.check_correct_positions("rgyb","ygyr")
+    assert_equal 3, mastermind.check_correct_positions("rgbb","rgyb")
+    assert_equal 4, mastermind.check_correct_positions("bbbb","bbbb")
   end
 
   def test_it_knows_how_many_colors_are_right
@@ -68,4 +76,7 @@ attr_reader :mastermind
     assert_equal 4, mastermind.check_correct_colors("rybg","rybg")
   end
 
+  def test_it_calculates_total_game_time_played
+    
+  end
 end

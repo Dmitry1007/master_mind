@@ -1,5 +1,6 @@
 require '../lib/master_mind'
 require '../lib/master_output'
+require 'colorize'
 
 class Game
   attr_reader :msg, :mastermind
@@ -23,7 +24,7 @@ class Game
       when 'p'
         play
       when 'q'
-        puts "GOODBYE!" 
+        puts "GOODBYE!".green 
       else
         puts msg.invalid_menu_choice
       end
@@ -42,10 +43,10 @@ class Game
 
  		if won_on_first_try?(input)
  			mastermind.guesses += 1
- 			puts msg.congrats(input, mastermind.guesses, 4, 4)
+ 			puts msg.congrats(input, mastermind.guesses, mastermind.elapsed_time, mastermind.elapsed_time)
  			break
  		elsif mastermind.winner?(input)
- 			puts msg.congrats(input, mastermind.guesses, 4, 4)
+ 			puts msg.congrats(input, mastermind.guesses, mastermind.elapsed_time, mastermind.elapsed_time)
  			break
  		elsif mastermind.guess_length_is_valid?(input) == false
  			puts msg.invalid_guess_length
