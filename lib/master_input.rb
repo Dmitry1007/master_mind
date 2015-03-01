@@ -40,7 +40,7 @@ class Game
  		puts "SECRET CODE = #{mastermind.secret_code.upcase}"
  		input = gets.chomp.downcase
 
- 		if mastermind.winner?(input) && mastermind.guesses == 0 
+ 		if won_on_first_try?(input)
  			mastermind.guesses += 1
  			puts msg.congrats(input, mastermind.guesses, 4, 4)
  			break
@@ -60,6 +60,11 @@ class Game
   end
 end
 
+private
+
+def won_on_first_try?(input)
+	mastermind.winner?(input) && mastermind.guesses == 0 
+end
 
 new_game = Game.new
 new_game.menu

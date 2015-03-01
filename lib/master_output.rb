@@ -42,7 +42,7 @@ class MasterOutput
   end
 
   def congrats(input, guesses, final_time, final_time2)
-    "Congratulations you win! You guessed the sequence #{input} with #{guesses} guesses in #{final_time} minutes, #{final_time2} seconds."
+    "Congratulations you win! You guessed the sequence #{input} with #{guesses} guess(es) in #{final_time} minutes, #{final_time2} seconds."
   end
 
 end

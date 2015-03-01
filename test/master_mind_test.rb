@@ -61,9 +61,11 @@ attr_reader :mastermind
   end
 
   def test_it_knows_how_many_colors_are_right
-    secret_pins = "rrrr"
-    input = "rrrr"
-    assert_equal 1, mastermind.check_correct_colors(input,secret_pins)
+    assert_equal 0, mastermind.check_correct_colors("rrrr","yyyy")
+    assert_equal 1, mastermind.check_correct_colors("rbbb","ryyy")
+    assert_equal 2, mastermind.check_correct_colors("byyy","bygg")
+    assert_equal 3, mastermind.check_correct_colors("rbby","ryyb") 
+    assert_equal 4, mastermind.check_correct_colors("rybg","rybg")
   end
 
 end

@@ -63,14 +63,18 @@ class Mastermind
     user_guess = input.chars.uniq
     comp_secret = secret_pins.chars.uniq 
 
-    zip_it = user_guess.zip(comp_secret)
+    total = user_guess.map { |x| comp_secret.include?(x) }
+    total.count(true) 
 
-    zip_it.inject(0) do |count, array|
-      if ! array.include?(nil)
-        count += 1
-      end
-      count
-    end
+
+    # zip_it = user_guess.zip(comp_secret)
+
+    # zip_it.inject(0) do |count, array|
+    #   if ! array.include?(nil)
+    #     count += 1
+    #   end
+    #   count
+    # end
 
     # Not Working
     # difference = input.select { |color| secret_pins.include?(color) }
@@ -86,9 +90,6 @@ class Mastermind
 
   end
 
-  def (input)
-
-  end
 
   def game_time
     ((Time.now - Time.at(start_time)).to_i).divmod(60)
@@ -103,7 +104,7 @@ end
 
 
 if __FILE__ == $0
-master = Mastermind.new
+master = Mastermind.new 
 # master.guesses=16
 # puts master.guesses 
 
