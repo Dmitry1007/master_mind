@@ -76,7 +76,4 @@ attr_reader :mastermind
     assert_equal 4, mastermind.check_correct_colors("rybg","rybg")
   end
 
-  def test_it_calculates_total_game_time_played
-    
-  end
 end
