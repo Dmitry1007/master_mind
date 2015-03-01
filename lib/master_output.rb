@@ -39,12 +39,16 @@ class MasterOutput
   end
 
   def game_instructions
-    "I have generated a beginner sequence with four elements made up of: (r)ed,(g)reen, (b)lue, and (y)ellow.\nUse (q)uit at any time to end the game.
+    "I have generated a beginner sequence with four elements made up of: (r)ed,(g)reen, (b)lue, and (y)ellow.\nUse (q)uit at any time to end the game.\nYou have a maximum of 15 guesses.
     \nWhat's your guess?".blue
   end
 
   def congrats(input, guesses, final_time, final_time2)
     "Congratulations you win! You guessed the sequence #{input} with #{guesses} guess(es) in #{final_time.to_i/60} minutes, #{final_time2 % 60} seconds.".yellow
+  end
+
+  def loser
+    "You've used up all your guesses.".orange
   end
 
 end

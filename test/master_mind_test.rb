@@ -24,8 +24,8 @@ attr_reader :mastermind
   end
 
   def test_it_loses_after_15_guesses  
-    mastermind.guesses = 16
-    assert true, mastermind.loser?("yrgr")
+    mastermind.guesses = 5
+    assert true, mastermind.loser?
   end
 
   def test_guess_length_is_valid

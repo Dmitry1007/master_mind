@@ -18,8 +18,8 @@ class Mastermind
     secret_code == input
   end
 
-  def loser?(input)
-    @guesses > 15 
+  def loser?
+    @guesses >= 2
   end
 
   def guess_length_is_valid?(input)
