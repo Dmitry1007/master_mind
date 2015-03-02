@@ -14,18 +14,19 @@ attr_reader :mastermind
   end
 
   def test_the_right_code_wins
-    secret_pins = "yggr"
-    assert true, mastermind.winner?("yggr")
+    mastermind.secret_code = "yggr"
+    assert_equal true, mastermind.winner?("yggr")
   end
 
   def test_the_wrong_code_loses
-    secret_pins = "yggr"
-    refute mastermind.winner?("gggg")
+    mastermind.secret_code = "yggr"
+    assert_equal false, mastermind.winner?("gggg")
   end
 
-  def test_it_loses_after_15_guesses  
-    mastermind.guesses = 5
-    assert true, mastermind.loser?
+  def test_it_loses_after_15_guesses
+    mastermind.start  
+    mastermind.guesses = 16
+    assert_equal true, mastermind.loser?
   end
 
   def test_guess_length_is_valid

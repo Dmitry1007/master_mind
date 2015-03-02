@@ -1,8 +1,8 @@
 
 class Mastermind
 
-  attr_reader :msg, :available_colors, :count, :max_guesses
-  attr_accessor :secret_code, :start_time, :guesses
+  attr_reader :msg, :available_colors, :count 
+  attr_accessor :secret_code, :start_time, :guesses, :max_guesses
 
   def initialize
     @available_colors = ['r','g','b','y'] * 4
@@ -20,7 +20,7 @@ class Mastermind
   end
 
   def loser?
-    @guesses >= @max_guesses - 1
+    @guesses > (@max_guesses - 1)
   end
 
   def guess_length_is_valid?(input)
