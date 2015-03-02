@@ -33,9 +33,8 @@ class Game
 
   def play
 	  mastermind.start
-	 	puts msg.game_instructions
+	 	puts msg.game_instructions(mastermind.max_guesses)
 	 	input = ""
-	 	# input = gets.chomp.downcase
 
 	 	while input != 'q'
 	 		input = gets.chomp.downcase

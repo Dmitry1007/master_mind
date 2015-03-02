@@ -38,8 +38,8 @@ class MasterOutput
     puts "You guessed #{input}. You have #{correct_colors} of the correct elements with #{check_correct_positions} in the correct positions.\nYou've taken #{guesses} guess(es).".green
   end
 
-  def game_instructions
-    "I have generated a beginner sequence with four elements made up of: (r)ed,(g)reen, (b)lue, and (y)ellow.\nUse (q)uit at any time to end the game.\nYou have a maximum of 15 guesses.
+  def game_instructions(guesses)
+    "I have generated a beginner sequence with four elements made up of: (r)ed,(g)reen, (b)lue, and (y)ellow.\nUse (q)uit at any time to end the game.\nYou have a maximum of #{guesses} guesses.
     \nWhat's your guess?".blue
   end
 
@@ -48,7 +48,7 @@ class MasterOutput
   end
 
   def loser
-    "You've used up all your guesses.".orange
+    "You've used up all your guesses.".magenta
   end
 
 end

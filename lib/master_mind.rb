@@ -1,7 +1,7 @@
 
 class Mastermind
 
-  attr_reader :msg, :available_colors, :count
+  attr_reader :msg, :available_colors, :count, :max_guesses
   attr_accessor :secret_code, :start_time, :guesses
 
   def initialize
@@ -11,6 +11,7 @@ class Mastermind
   def start
     @start_time = Time.new
     @guesses = 0
+    @max_guesses = 15
     @secret_code = @available_colors.sample(4).join
   end
 
@@ -19,7 +20,7 @@ class Mastermind
   end
 
   def loser?
-    @guesses >= 2
+    @guesses >= @max_guesses - 1
   end
 
   def guess_length_is_valid?(input)
@@ -39,15 +40,14 @@ class Mastermind
     secret_pins = secret_pins.chars
 
     results = input.zip(secret_pins).map { |x,y| x == y }
-    total = results.count { |value| value == true }
+    results.count { |value| value }
   end
  
   def check_correct_colors(input, secret_pins=@secret_code)
     user_guess = input.chars.uniq
     comp_secret = secret_pins.chars.uniq 
 
-    total = user_guess.map { |x| comp_secret.include?(x) }
-    total.count(true) 
+    user_guess.count { |x| comp_secret.include?(x) }
   end
 
   def elapsed_time
